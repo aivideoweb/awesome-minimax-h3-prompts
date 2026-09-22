@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-22 — Restore upstream gallery layout
+
+- Restored the upstream three-column gallery order and title/image/prompt structure on English and Chinese homepages, sharing column widths across all rows.
+- Kept the fictional-canal correction and linked originals; detailed input requirements remain in the recipes.
+
 ## 2026-09-22 — Consistent reference gallery width
 
 - Combined the three reference groups into one table on both English and Chinese homepages so every row shares the same image and description column widths.
