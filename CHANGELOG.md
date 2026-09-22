@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-22 — Keep the reference gallery visual
+
+- Moved reference-image prompts and production notes below the English and Chinese galleries, removed the text-only card, and arranged all eleven images consecutively in three columns.
+
 ## 2026-09-22 — Restore upstream gallery layout
 
 - Restored the upstream three-column gallery order and title/image/prompt structure on English and Chinese homepages, sharing column widths across all rows.

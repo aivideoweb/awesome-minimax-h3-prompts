@@ -162,9 +162,9 @@
 
 <table>
 <tr>
-<td width="33%">品牌与产品</td>
-<td width="33%">UGC 与生活方式</td>
-<td width="33%">旅行与酒店</td>
+<td width="33%"><strong>品牌与产品</strong></td>
+<td width="33%"><strong>UGC 与生活方式</strong></td>
+<td width="33%"><strong>旅行与酒店</strong></td>
 </tr>
 <tr>
 <td width="33%"><a href="./assets/gallery/midnight-observatory-tea.webp"><img src="./assets/gallery/midnight-observatory-tea.webp" alt="日出前山顶观测站中的虚构瓶装茶饮" width="280"></a></td>
@@ -179,49 +179,48 @@
 <tr>
 <td width="33%"><strong>动画与角色</strong></td>
 <td width="33%"><strong>动作与运动</strong></td>
-<td width="33%"><strong>H3 参考图简报</strong></td>
+<td width="33%"><strong>运镜迁移产品</strong></td>
 </tr>
 <tr>
 <td width="33%"><a href="./assets/gallery/clay-repair-robot.webp"><img src="./assets/gallery/clay-repair-robot.webp" alt="微缩木工作台中的原创黄色黏土维修机器人" width="280"></a></td>
 <td width="33%"><a href="./assets/gallery/indoor-climbing-final-hold.webp"><img src="./assets/gallery/indoor-climbing-final-hold.webp" alt="配备安全装备、正在室内黄色线路攀爬的虚构成年运动员" width="280"></a></td>
-<td width="33%">12 个视觉概念都提供可复用、原创且与图片模型无关的 <a href="./assets/minimax-h3-reference-image-prompts.md">H3 参考图简报</a>。</td>
+<td width="33%"><a href="./assets/gallery/radial-cork-speaker.webp"><img src="./assets/gallery/radial-cork-speaker.webp" alt="原创虚构石墨灰与软木便携音箱" width="280"></a></td>
 </tr>
 <tr>
 <td width="33%"><a href="./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button">ANI-002 提示词</a></td>
 <td width="33%"><a href="./prompts/09-action-sports.md#act-001-indoor-climbing-final-move">ACT-001 提示词</a></td>
-<td width="33%"><a href="./assets/README.md">素材制作记录</a></td>
+<td width="33%"><a href="./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content">MRF-002 提示词</a></td>
 </tr>
 <tr>
-<td width="33%"><strong>运镜迁移产品</strong></td>
 <td width="33%"><strong>角色对白</strong></td>
 <td width="33%"><strong>多参考长镜头</strong></td>
+<td width="33%"><strong>动态海报</strong></td>
 </tr>
 <tr>
-<td width="33%"><a href="./assets/gallery/radial-cork-speaker.webp"><img src="./assets/gallery/radial-cork-speaker.webp" alt="原创虚构石墨灰与软木便携音箱" width="280"></a></td>
 <td width="33%"><a href="./assets/gallery/paper-birds-storm-shelter.webp"><img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="暴雨温室中的原创靛蓝和藏红纸艺鸟角色" width="280"></a></td>
 <td width="33%"><a href="./assets/gallery/three-biome-museum-rail.webp"><img src="./assets/gallery/three-biome-museum-rail.webp" alt="跨越三种桌面生态的原创微缩博物馆轨道" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/dynamic-night-market-poster.webp"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="带空白文字区域的原创纸艺夜市动态海报" width="280"></a></td>
 </tr>
 <tr>
-<td width="33%"><a href="./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content">MRF-002 提示词</a></td>
 <td width="33%"><a href="./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm">CHR-001 提示词</a></td>
 <td width="33%"><a href="./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take">MRF-001 提示词</a></td>
+<td width="33%"><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">MOG-001 提示词</a></td>
 </tr>
 <tr>
-<td width="33%"><strong>动态海报</strong></td>
 <td width="33%"><strong>实拍超现实</strong></td>
 <td width="33%"><strong>直播演示</strong></td>
 </tr>
 <tr>
-<td width="33%"><a href="./assets/gallery/dynamic-night-market-poster.webp"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="带空白文字区域的原创纸艺夜市动态海报" width="280"></a></td>
 <td width="33%"><a href="./assets/gallery/topographic-map-archive.webp"><img src="./assets/gallery/topographic-map-archive.webp" alt="从档案地图升起的原创手工微缩地形" width="280"></a></td>
 <td width="33%"><a href="./assets/gallery/modular-lunch-jar-kit.webp"><img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="包含五个组件的原创无品牌模块化午餐罐" width="280"></a></td>
 </tr>
 <tr>
-<td width="33%"><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">MOG-001 提示词</a></td>
 <td width="33%"><a href="./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape">SRL-001 提示词</a></td>
 <td width="33%"><a href="./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo">VER-001 提示词</a></td>
 </tr>
 </table>
+
+制作自己的参考图：[参考图制作提示词](./assets/minimax-h3-reference-image-prompts.md) · [素材制作记录](./assets/README.md)
 
 水乡图对应单图练习；[原版 TRV-001](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) 需要三张核实过的地点图。另见 [VideoWeb 封面制作记录](./assets/videoweb-cover-prompt.md)。
 
