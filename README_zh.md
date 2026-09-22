@@ -1,160 +1,36 @@
 # Awesome MiniMax H3 视频提示词 — VideoWeb AI
 
-![VideoWeb AI MiniMax H3 提示词手册封面](./assets/hero-minimax-h3-video-prompts.webp)
+为广告、产品、人物故事和短视频挑选提示词，查看真实发布案例，再按你的镜头需求修改。
 
-> 面向实际制作的 MiniMax H3 音视频提示词手册，覆盖广告、电商、UGC、旅行、美食、时尚、电影、动画、体育、VFX、UI、音乐、教育、建筑、出行、自然、工业与公共服务。
+**84 条提示词 · 24 个分类 · 15 条社区视频案例**
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-0b7285.svg)](./LICENSE)
-[![提示词](https://img.shields.io/badge/prompt_recipes-84-ff6b6b.svg)](./prompts/README.md)
-[![实用分类](https://img.shields.io/badge/practical_categories-24-7950f2.svg)](./prompts/README.md)
-[![提示词语言](https://img.shields.io/badge/prompt_languages-9-2f9e44.svg)](./docs/multilingual-prompting.md)
-[![视觉素材](https://img.shields.io/badge/visual_assets-12-f59f00.svg)](./assets/README.md)
-[![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2f9e44.svg)](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=prompt-proposal.yml)
-[![Maintained by VideoWeb AI](https://img.shields.io/badge/maintained_by-VideoWeb_AI-228be6.svg)](https://videoweb.ai)
+**[挑选提示词](#choose-a-prompt) · [看视频与提示词](#watch-examples) · [试做 5 秒镜头](#try-a-shot)**
 
-**README 语言：** [English](./README.md) · [简体中文](./README_zh.md) · [日本語](./README_ja.md) · [한국어](./README_ko.md) · [Español](./README_es.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md) · [Português](./README_pt.md)
+**语言：** [English](./README.md) · [简体中文](./README_zh.md) · [日本語](./README_ja.md) · [한국어](./README_ko.md) · [Español](./README_es.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md) · [Português](./README_pt.md)
 
-## 用 VideoWeb AI 开始创作
+辅助入口：[11 张参考图](#reference-images) · [制作模板](./templates/README.md) · [部署指南](./docs/deployment-guide.md)
 
-日常制作推荐使用 [VideoWeb AI MiniMax H3](https://videoweb.ai/model/minimax-h3/) 在线入口。想先试一个短镜头，可以打开[免费 MiniMax H3 体验工具，无需注册](https://videoweb.ai/free-minimax-h3/)。免费页面目前标明 480p、5 秒，支持文字输入，也可选传首尾两张图片。
+<img src="./assets/hero-minimax-h3-video-prompts.webp" alt="VideoWeb AI MiniMax H3 提示词库封面" width="560">
 
-先从单镜头开始。多参考视频、音频上传、局部编辑和运镜迁移需要选择明确支持这些输入的工具；具体设置、使用条件和排队情况以当前页面为准。
+提示词正文以英文为主；[多语言示例](./docs/multilingual-prompting.md)提供中文等 8 种语言。84 条提示词与 11 张参考图继承自源库，VideoWeb 新增品牌封面及使用指南，详见[来源说明](./UPSTREAM.md)。
 
-[VideoWeb 操作指南与可直接复制的 5 秒提示词](./docs/videoweb-quick-start.md)
+<a id="choose-a-prompt"></a>
 
+## 按你要做的视频找提示词
 
-**SEO 主题：** MiniMax H3 提示词、MiniMax H3 开放权重、MiniMax H3 本地部署、MiniMax H3 SGLang、FL2VA、Ref2VA、MiniMax 视频提示词、海螺 AI 视频提示词、AI 视频生成案例、原生音视频生成、多模态视频、图生视频提示词、视频编辑、视频续写、运镜迁移、动态海报、MG 动画、超现实物理、视觉错觉、竖屏短剧、直播带货、创作者视频、声音驱动视频、多语言对白、角色表演、AI 广告、电商视频、UGC 视频、电影感提示词、动画提示词、VFX 提示词和通用视频模板。
-
-| [浏览全部 84 条提示词（英文）](./prompts/README.md) | [提交原创提示词](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=prompt-proposal.yml) | [改进项目文档](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=documentation.yml) | [发起 Pull Request](https://github.com/aivideoweb/awesome-minimax-h3-prompts/pulls) |
-|---|---|---|---|
-
-[H3 模型说明](./docs/minimax-h3-overview.md) · [开源部署指南](./docs/deployment-guide.md) · [官方视频示例](./docs/official-h3-examples.md) · [制作模板](./templates/README.md) · [H3 提示词指南](./docs/prompting-guide.md) · [场景矩阵](./docs/use-case-matrix.md) · [多语言提示词](./docs/multilingual-prompting.md) · [H3 参考图简报](./assets/minimax-h3-reference-image-prompts.md) · [贡献指南](./CONTRIBUTING.md)
-
-## 你将获得
-
-- 24 个制作分类、84 条来自源库且可直接改写的音视频提示词；
-- 为每张图片、每段视频和每段音频明确职责的参考素材映射；
-- 包含清晰节拍、运镜、状态变化、声音意图和结尾状态的时间线；
-- 人物、服装、产品、场景、UI、屏幕方向和编辑范围锁定规则；
-- 覆盖品牌、电商、酒店、餐饮、时尚、游戏、教育和社交媒体的实用场景；
-- 8 种 README 入口和 8 种非英语的可复制完整提示词示例；
-- 11 张源库参考图和 1 张 VideoWeb 封面，以及与图片模型无关的 H3 首帧/参考图简报；
-- 覆盖 FL2VA、Ref2VA、SGLang、本地 768p 和混合 2K 流程的九语言部署指南；
-- 标明官方来源的视频、Skill、可复现请求脚本和效果对照画廊；
-- 面向发布的原创性、版权、安全、事实核验和成片审查规则。
-
-`prompts/` 中的 84 条提示词继承自 Flaq AI 源仓库，本仓库维护 VideoWeb AI 品牌适配版，详见[来源与维护说明](./UPSTREAM.md)。单独的 [X 社区案例展示区](./docs/x-community-showcase.md)保留外部作者署名、视频与完整提示词原帖链接，并提供原文短节选和编辑解析；社区作品不计入原创配方或素材数量。
-
-## 欢迎提交你的原创 H3 工作流
-
-如果某条提示词帮你解决了真实制作问题，欢迎通过[结构化提示词提案](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=prompt-proposal.yml)提交。成片不是必需项；高质量提案应说明交付目标、参考素材职责、可见动作、时间线、连续性锁定、声音意图、易错点，以及内容是概念版还是已测试版本。
-
-适合首次参与的任务包括：测试现有配方、补充真实场景缺口、改进审查清单、增加母语适配，或报告已经失效的官方文档。提交前请阅读[贡献指南](./CONTRIBUTING.md)；内容必须原创、权利清晰、可复核，并且不能包含隐藏推广或追踪链接。
-
-## 为什么按 H3 特性组织
-
-MiniMax 官方 H3 资料强调三类能力：文字、图片、音频、视频的原生多模态理解与生成；对人物、物体、场景、声音和节奏的多维编辑控制；面向影视、广告、电商、数字体验、游戏和动画的商用内容生成。详见 [MiniMax 官方 H3 亮点示例](https://platform.minimaxi.com/docs/guides/video-prompt)。
-
-本项目将这些能力整理为可复用的提示词契约：
-
-```text
-参考素材映射：每张图、视频或音频允许控制什么
-交付要求：渠道、比例、目标时长、受众、目标
-创意方向：场景、主体、故事、风格、光线、色彩
-时间线：开场状态 → 动作节拍 → 结束状态
-镜头：景别、屏幕方向、运镜、剪辑和转场规则
-连续性锁定：身份、产品、服装、环境、UI、道具
-声音意图：环境音、音效、对白或音乐的职责
-编辑范围：允许修改什么、必须保持什么
-避免：视觉、物理、连续性、法律和品牌风险
-```
-
-仓库不会编造接口参数。请先阅读 [H3 模型说明与官方资源](./docs/minimax-h3-overview.md)，当前模型标识、支持输入、限制、API 字段、模型许可和可下载版本能力以 MiniMax 官方文档及模型卡为准。
-
-## MiniMax H3 官方与开放权重地址
-
-- **H3 官方仓库：** [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
-- **H3 模型卡与开放权重：** [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
-- **本地部署：** [九语言开源部署指南](./docs/deployment-guide.md)
-- **官方视频和 Skill：** [带来源标注的官方示例画廊](./docs/official-h3-examples.md)
-- **H3 官方能力与提示词示例：** [MiniMax 视频提示词指南](https://platform.minimaxi.com/docs/guides/video-prompt)
-- **托管视频生成流程：** [MiniMax 视频生成文档](https://platform.minimaxi.com/docs/guides/video-generation)
-
-当前开放版本提供 H3-Base FL2VA 与 Ref2VA 权重，可在本地生成 768p 原生音视频；H3-Context-IR 与 H3-Regenerate-2K 仍是托管组件，完整 2K 流程需要本地生成与官方 API 配合。部署或商用前，请核对最新 Community License、支持任务、硬件/运行时要求和实际发布文件。
-
-## MiniMax H3 官方效果示例
-
-以下预览通过远程链接引用自 MiniMax-H3 官方仓库，并直接链接回官方 Skill。媒体文件没有复制到本项目，也不会被描述成本提示词库的生成结果。
-
-| 产品广告 | 3D 动画 | 音乐视频 |
+| 制作目标 | 起点（英文） | 先关注什么 |
 |---|---|---|
-| [![MiniMax H3 官方极简产品广告示例](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/minimalist-product-ad-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/minimalist-product-ad-generator) | [![MiniMax H3 官方 3D 动画短片示例](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/3d-animation-short-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/3d-animation-short-generator) | [![MiniMax H3 官方音乐视频字幕示例](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/music-video-subtitle-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/mv-subtitle-skill-confirmed) |
+| 产品与广告 | [BRD-001](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | 产品亮相、材质与形状保持一致 |
+| 人物与生活短片 | [UGC-001](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | 先安排一个清楚的产品演示动作 |
+| 旅行与场景 | [TRV-001](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) | 场景气氛与缓慢运镜 |
+| 动画角色 | [ANI-002](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | 角色外观、动作和道具连续性 |
+| 动态海报 | [MOG-001](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | 画面逐步出现，结尾留出阅读时间 |
+| 多参考与运镜迁移 | [MRF-002](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | 先确认工具支持所需的视频参考 |
 
-在[带来源标注的官方示例画廊](./docs/official-h3-examples.md)中，可以继续查看可复现的 T2VA、FL2VA、Ref2VA 请求脚本、768p MP4 输出和 2K 流程对照。
+**[浏览完整 84 条提示词](./prompts/README.md)** · [按输入方式和难点选择](./docs/use-case-matrix.md)
 
-## X 社区精选：看视频，学 MiniMax H3 提示词
-
-完整展示区现有 15 条案例，先看以下 6 条上游精选，涵盖动态文字、产品细节、角色一致性与场景调度。点击封面观看 X 视频，原帖可查看作者完整 prompt，解析页提供原文短节选与中英拆解。
-
-| 动态文字：让一句话变成视觉叙事 | 耳机广告：从材质微距到结构拆解 | 角色登场：从局部揭示到完整轮廓 |
-|---|---|---|
-| [![动态文字：让一句话变成视觉叙事 — @umesh_ai](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![耳机广告：从材质微距到结构拆解 — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![角色登场：从局部揭示到完整轮廓 — @aimikoda](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) |
-| @umesh_ai · [观看 MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [X 原帖 / 完整 prompt](https://x.com/umesh_ai/status/2083909535593644291) | @LudovicCreator · [观看 MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [X 原帖 / 完整 prompt](https://x.com/LudovicCreator/status/2082783319075291312) | @aimikoda · [观看 MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [X 原帖 / 完整 prompt](https://x.com/aimikoda/status/2086412223061135392) |
-| [Prompt 节选与解析](./docs/x-community-showcase.md#xh3-001) | [Prompt 节选与解析](./docs/x-community-showcase.md#xh3-002) | [Prompt 节选与解析](./docs/x-community-showcase.md#xh3-003) |
-
-| 蓝色摄影棚时尚片：三参考同场 | 竹林悬疑：用近景与正反打建立张力 | 日常影像与不可能事件：值得研究的偏差 |
-|---|---|---|
-| [![蓝色摄影棚时尚片：三参考同场 — @egeberkina](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![竹林悬疑：用近景与正反打建立张力 — @sipteaandcoffee](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) | [![日常影像与不可能事件：值得研究的偏差 — @cocktailpeanut](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) |
-| @egeberkina · [观看 MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [X 原帖 / 完整 prompt](https://x.com/egeberkina/status/2083301476206588086) | @sipteaandcoffee · [观看 MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [X 原帖 / 完整 prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) | @cocktailpeanut · [观看 MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [X 原帖 / 完整 prompt](https://x.com/cocktailpeanut/status/2086879654116495564) |
-| [Prompt 节选与解析](./docs/x-community-showcase.md#xh3-004) | [Prompt 节选与解析](./docs/x-community-showcase.md#xh3-005) | [Prompt 节选与解析](./docs/x-community-showcase.md#xh3-006) |
-
-2026 年 9 月 20 日通过公开 X 读取服务及视频抽帧核对，未独立复现生成。外部媒体归原作者所有，不纳入本项目 MIT 许可；最后一例专门记录提示词与实际画面的偏差。
-
-### 更多 X 案例
-
-新增九条案例，完整展示区共十五条；以下标题进入中英解析，视频与作者提示词分别链接。
-
-| 案例 | 视频 | 作者提示词 |
-|---|---|---|
-| [西部片头：让剪辑服从节拍](./docs/x-community-showcase.md#xh3-007) · @doctorwasif | [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) | [X](https://x.com/doctorwasif/status/2085599659326935100) |
-| [护肤广告：夜晚到清晨的连续性](./docs/x-community-showcase.md#xh3-008) · @AIwithJessica | [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) | [X](https://x.com/AIwithJessica/status/2083013658230317082) |
-| [悬疑短片：对白、反应与声音反转](./docs/x-community-showcase.md#xh3-009) · @drjoetw | [▶ MP4 — 含突袭惊吓与闪屏](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [X](https://x.com/drjoetw/status/2082669221222207488) |
-| [游泳片段：区分四种动作](./docs/x-community-showcase.md#xh3-010) · @johnAGI168 | [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) | [X](https://x.com/johnAGI168/status/2082798969499832514) |
-| [游戏界面：让回合过程清楚可读](./docs/x-community-showcase.md#xh3-011) · @AllaAisling | [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | [X](https://x.com/AllaAisling/status/2082909383424446745) |
-| [街头美食：环境、制作与人物反应](./docs/x-community-showcase.md#xh3-012) · @nawalsehar | [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | [X](https://x.com/nawalsehar/status/2085233880353915217) |
-| [悬崖追逐：连续运镜的空间路线](./docs/x-community-showcase.md#xh3-013) · @umesh_ai | [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2082499539735588916) |
-| [动态海报：逐步组装但不破坏版式](./docs/x-community-showcase.md#xh3-014) · @LudovicCreator | [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2083628879407632890) |
-| [日语动画预告：身份与表情控制](./docs/x-community-showcase.md#xh3-015) · @haruuraeadss | [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) | [X](https://x.com/haruuraeadss/status/2082945363431080299) |
-
-核对日期：2026-09-22。经公开读取服务取得帖子和视频信息，抽帧检查；未独立生成，也未试听音频。所需参考图或音轨见各条说明。
-
-
-
-## 原创参考图画廊
-
-这些原创生成图片用于提示词的首帧和氛围参考，不是模型跑分，也不代表 H3 的必然输出。
-
-| 品牌与产品 | UGC 与生活方式 | 旅行与酒店 |
-|---|---|---|
-| ![日出前山顶观测站中的虚构瓶装茶饮](./assets/gallery/midnight-observatory-tea.webp) | ![成人创作者在家庭工作室体验原创折叠台灯](./assets/gallery/honest-desk-lamp-demo.webp) | ![雨后虚构水乡街区、自行车与石桥](./assets/gallery/rain-washed-canal-morning.webp) |
-| [BRD-001 提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 提示词](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [TRV-001 提示词](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
-
-| 动画与角色 | 动作与运动 | H3 参考图简报 |
-|---|---|---|
-| ![微缩木工作台中的原创黄色黏土维修机器人](./assets/gallery/clay-repair-robot.webp) | ![配备安全装备、正在室内黄色线路攀爬的虚构成年运动员](./assets/gallery/indoor-climbing-final-hold.webp) | 11 张源库参考图对应[可复用图片简报](./assets/minimax-h3-reference-image-prompts.md)，新 [VideoWeb 封面另有制作记录](./assets/videoweb-cover-prompt.md)。 |
-| [ANI-002 提示词](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | [ACT-001 提示词](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) | [素材制作记录](./assets/README.md) |
-
-| 运镜迁移产品 | 角色对白 | 多参考长镜头 |
-|---|---|---|
-| ![原创虚构石墨灰与软木便携音箱](./assets/gallery/radial-cork-speaker.webp) | ![暴雨温室中的原创靛蓝和藏红纸艺鸟角色](./assets/gallery/paper-birds-storm-shelter.webp) | ![跨越三种桌面生态的原创微缩博物馆轨道](./assets/gallery/three-biome-museum-rail.webp) |
-| [MRF-002 提示词](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | [CHR-001 提示词](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) | [MRF-001 提示词](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) |
-
-| 动态海报 | 实拍超现实 | 直播演示 |
-|---|---|---|
-| ![带空白文字区域的原创纸艺夜市动态海报](./assets/gallery/dynamic-night-market-poster.webp) | ![从档案地图升起的原创手工微缩地形](./assets/gallery/topographic-map-archive.webp) | ![包含五个组件的原创无品牌模块化午餐罐](./assets/gallery/modular-lunch-jar-kit.webp) |
-| [MOG-001 提示词](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | [SRL-001 提示词](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) | [VER-001 提示词](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
-
-## 24 个实用分类
+<details>
+<summary>展开全部 24 个分类</summary>
 
 | 分类 | 数量 | 重点场景 |
 |---|---:|---|
@@ -183,8 +59,137 @@ MiniMax 官方 H3 资料强调三类能力：文字、图片、音频、视频�
 | [超现实物理与视觉错觉](./prompts/23-surreal-physics-optical-illusions.md) | 4 | 地图隆起、影子预演、未来水洼、材质球体 |
 | [竖屏系列与直播创作](./prompts/24-vertical-series-live-creator.md) | 4 | 直播演示、邻里短剧、维修系列、创作者答疑 |
 
+</details>
 
-## 快速开始
+<a id="try-a-shot"></a>
+
+## 试做第一个 5 秒镜头
+
+| 你要做什么 | VideoWeb 入口 |
+|---|---|
+| 免注册试一个镜头 | [免费 MiniMax H3](https://videoweb.ai/free-minimax-h3/)：页面标注 480p、5 秒，可输入文字或选传首尾两图 |
+| 日常制作，选择更多设置 | [MiniMax H3 模型页](https://videoweb.ai/model/minimax-h3/)：生成前确认可用设置、积分及使用条件 |
+
+先打开免费工具，不上传图片，复制下方示例并选择画面比例。生成后检查瓶形和运镜，再一次修改一个问题。
+
+```text
+5 秒连续单镜头：一只虚构、无品牌的蓝色玻璃瓶放在深色摄影台上。0–1 秒：中近景静止展示，瓶身完整入画。1–4 秒：镜头缓慢推进，柔和侧光显出玻璃质感，瓶子始终不动。4–5 秒：镜头停稳，留下清楚的产品画面。瓶形、瓶盖、颜色和背景保持一致。不切镜头，不旋转瓶身，不增加物体、文字或标志。声音意图：安静的室内环境声，不要人声或音乐。
+```
+
+这是未经生成测试的入门示例，不计入 84 条源库提示词。页面信息核对于 2026-09-22，设置和排队情况可能变化。若用图片引导，请准备首尾两张图；复杂的视频或音频参考需要工具明确支持。详见[操作指南与常见问题](./docs/videoweb-quick-start.md)。
+
+<a id="watch-examples"></a>
+
+## 看视频，读作者提示词
+
+以下是外部作者作品，不是本库提示词的测试结果，也不是 VideoWeb 生成证明。点击预览打开 X 视频；每条另有 MP4、原始提示词与解析入口。
+
+| 耳机广告：从材质微距到结构拆解 | 游戏界面：让回合过程清楚可读 | 动态海报：逐步组装但不破坏版式 |
+|---|---|---|
+| [![耳机广告：从材质微距到结构拆解 — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![游戏界面：让回合过程清楚可读 — @AllaAisling](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![动态海报：逐步组装但不破坏版式 — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
+| [@LudovicCreator](https://x.com/LudovicCreator) · [MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [作者提示词](https://x.com/LudovicCreator/status/2082783319075291312) · [解析](./docs/x-community-showcase.md#xh3-002) | [@AllaAisling](https://x.com/AllaAisling) · [MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [作者提示词](https://x.com/AllaAisling/status/2082909383424446745) · [解析](./docs/x-community-showcase.md#xh3-011) | [@LudovicCreator](https://x.com/LudovicCreator) · [MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [作者提示词](https://x.com/LudovicCreator/status/2083628879407632890) · [解析](./docs/x-community-showcase.md#xh3-014) |
+
+**[打开全部 15 条案例与中英解析](./docs/x-community-showcase.md)**
+
+<details>
+<summary>展开 15 条案例快捷目录</summary>
+
+| 案例与解析 | 视频 | 作者提示词 |
+|---|---|---|
+| [动态文字：让一句话变成视觉叙事](./docs/x-community-showcase.md#xh3-001) · [@umesh_ai](https://x.com/umesh_ai) | [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2083909535593644291) |
+| [耳机广告：从材质微距到结构拆解](./docs/x-community-showcase.md#xh3-002) · [@LudovicCreator](https://x.com/LudovicCreator) | [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2082783319075291312) |
+| [角色登场：从局部揭示到完整轮廓](./docs/x-community-showcase.md#xh3-003) · [@aimikoda](https://x.com/aimikoda) | [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) | [X](https://x.com/aimikoda/status/2086412223061135392) |
+| [蓝色摄影棚时尚片：三参考同场](./docs/x-community-showcase.md#xh3-004) · [@egeberkina](https://x.com/egeberkina) | [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) | [X](https://x.com/egeberkina/status/2083301476206588086) |
+| [竹林悬疑：用近景与正反打建立张力](./docs/x-community-showcase.md#xh3-005) · [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) | [X](https://x.com/sipteaandcoffee/status/2083132770650571041) |
+| [日常影像与不可能事件：值得研究的偏差](./docs/x-community-showcase.md#xh3-006) · [@cocktailpeanut](https://x.com/cocktailpeanut) | [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) | [X](https://x.com/cocktailpeanut/status/2086879654116495564) |
+| [西部片头：让剪辑服从节拍](./docs/x-community-showcase.md#xh3-007) · [@doctorwasif](https://x.com/doctorwasif) | [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) | [X](https://x.com/doctorwasif/status/2085599659326935100) |
+| [护肤广告：夜晚到清晨的连续性](./docs/x-community-showcase.md#xh3-008) · [@AIwithJessica](https://x.com/AIwithJessica) | [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) | [X](https://x.com/AIwithJessica/status/2083013658230317082) |
+| [悬疑短片：对白、反应与声音反转](./docs/x-community-showcase.md#xh3-009) · [@drjoetw](https://x.com/drjoetw) | [▶ MP4 — 含突袭惊吓与闪屏](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [X](https://x.com/drjoetw/status/2082669221222207488) |
+| [游泳片段：区分四种动作](./docs/x-community-showcase.md#xh3-010) · [@johnAGI168](https://x.com/johnAGI168) | [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) | [X](https://x.com/johnAGI168/status/2082798969499832514) |
+| [游戏界面：让回合过程清楚可读](./docs/x-community-showcase.md#xh3-011) · [@AllaAisling](https://x.com/AllaAisling) | [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | [X](https://x.com/AllaAisling/status/2082909383424446745) |
+| [街头美食：环境、制作与人物反应](./docs/x-community-showcase.md#xh3-012) · [@nawalsehar](https://x.com/nawalsehar) | [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | [X](https://x.com/nawalsehar/status/2085233880353915217) |
+| [悬崖追逐：连续运镜的空间路线](./docs/x-community-showcase.md#xh3-013) · [@umesh_ai](https://x.com/umesh_ai) | [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2082499539735588916) |
+| [动态海报：逐步组装但不破坏版式](./docs/x-community-showcase.md#xh3-014) · [@LudovicCreator](https://x.com/LudovicCreator) | [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2083628879407632890) |
+| [日语动画预告：身份与表情控制](./docs/x-community-showcase.md#xh3-015) · [@haruuraeadss](https://x.com/haruuraeadss) | [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) | [X](https://x.com/haruuraeadss/status/2082945363431080299) |
+
+</details>
+
+来源记录分别核对于 2026-09-20 和 2026-09-22，采用公开帖子读取及视频抽帧，未独立生成、未试听音频。外部作品不纳入仓库 MIT 许可。[核对方法与来源](./docs/x-community-showcase.md#reading-the-evidence)
+
+## MiniMax 官方视频示例
+
+以下预览通过远程链接引用自 MiniMax-H3 官方仓库，并直接链接回官方 Skill。媒体文件没有复制到本项目，也不会被描述成本提示词库的生成结果。
+
+| 产品广告 | 3D 动画 | 音乐视频 |
+|---|---|---|
+| [![MiniMax H3 官方极简产品广告示例](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/minimalist-product-ad-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/minimalist-product-ad-generator) | [![MiniMax H3 官方 3D 动画短片示例](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/3d-animation-short-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/3d-animation-short-generator) | [![MiniMax H3 官方音乐视频字幕示例](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/music-video-subtitle-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/mv-subtitle-skill-confirmed) |
+
+在[带来源标注的官方示例画廊](./docs/official-h3-examples.md)中，可以继续查看可复现的 T2VA、FL2VA、Ref2VA 请求脚本、768p MP4 输出和 2K 流程对照。
+
+<a id="reference-images"></a>
+
+## 选择参考图
+
+这些原创生成图片用于提示词的首帧和氛围参考，不是模型跑分，也不代表 H3 的必然输出。
+
+| 品牌与产品 | UGC 与生活方式 | 旅行与酒店 |
+|---|---|---|
+| ![日出前山顶观测站中的虚构瓶装茶饮](./assets/gallery/midnight-observatory-tea.webp) | ![成人创作者在家庭工作室体验原创折叠台灯](./assets/gallery/honest-desk-lamp-demo.webp) | ![雨后虚构水乡街区、自行车与石桥](./assets/gallery/rain-washed-canal-morning.webp) |
+| [BRD-001 提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 提示词](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [TRV-001 提示词](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
+
+<details>
+<summary>展开其余 8 张参考图与对应提示词</summary>
+
+| 动画与角色 | 动作与运动 | H3 参考图简报 |
+|---|---|---|
+| ![微缩木工作台中的原创黄色黏土维修机器人](./assets/gallery/clay-repair-robot.webp) | ![配备安全装备、正在室内黄色线路攀爬的虚构成年运动员](./assets/gallery/indoor-climbing-final-hold.webp) | 11 张源库参考图对应[可复用图片简报](./assets/minimax-h3-reference-image-prompts.md)，新 [VideoWeb 封面另有制作记录](./assets/videoweb-cover-prompt.md)。 |
+| [ANI-002 提示词](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | [ACT-001 提示词](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) | [素材制作记录](./assets/README.md) |
+
+| 运镜迁移产品 | 角色对白 | 多参考长镜头 |
+|---|---|---|
+| ![原创虚构石墨灰与软木便携音箱](./assets/gallery/radial-cork-speaker.webp) | ![暴雨温室中的原创靛蓝和藏红纸艺鸟角色](./assets/gallery/paper-birds-storm-shelter.webp) | ![跨越三种桌面生态的原创微缩博物馆轨道](./assets/gallery/three-biome-museum-rail.webp) |
+| [MRF-002 提示词](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | [CHR-001 提示词](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) | [MRF-001 提示词](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) |
+
+| 动态海报 | 实拍超现实 | 直播演示 |
+|---|---|---|
+| ![带空白文字区域的原创纸艺夜市动态海报](./assets/gallery/dynamic-night-market-poster.webp) | ![从档案地图升起的原创手工微缩地形](./assets/gallery/topographic-map-archive.webp) | ![包含五个组件的原创无品牌模块化午餐罐](./assets/gallery/modular-lunch-jar-kit.webp) |
+| [MOG-001 提示词](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | [SRL-001 提示词](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) | [VER-001 提示词](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
+
+</details>
+
+## 继续学习与本地部署
+
+| 需求 | 文档 |
+|---|---|
+| 改写镜头、声音与人物细节 | [提示词指南](./docs/prompting-guide.md) · [12 个制作模板](./templates/README.md) |
+| 用中文等语言开始 | [多语言提示词](./docs/multilingual-prompting.md) |
+| 理解模型与接口 | [H3 模型说明](./docs/minimax-h3-overview.md) · [接口使用流程](./docs/api-workflow.md) |
+| 在自己的设备上运行 | [九语言部署指南](./docs/deployment-guide.md) |
+| 找图片参考与制作记录 | [参考图简报](./assets/minimax-h3-reference-image-prompts.md) · [素材记录](./assets/README.md) |
+| 比较其他使用入口 | [其他 H3 工具](./docs/other-h3-tools.md) |
+
+<details>
+<summary>提示词结构与完整检查步骤</summary>
+
+MiniMax 官方 H3 资料强调三类能力：文字、图片、音频、视频的原生多模态理解与生成；对人物、物体、场景、声音和节奏的多维编辑控制；面向影视、广告、电商、数字体验、游戏和动画的商用内容生成。详见 [MiniMax 官方 H3 亮点示例](https://platform.minimaxi.com/docs/guides/video-prompt)。
+
+本项目将这些能力整理为可复用的提示词契约：
+
+```text
+参考素材映射：每张图、视频或音频允许控制什么
+交付要求：渠道、比例、目标时长、受众、目标
+创意方向：场景、主体、故事、风格、光线、色彩
+时间线：开场状态 → 动作节拍 → 结束状态
+镜头：景别、屏幕方向、运镜、剪辑和转场规则
+连续性锁定：身份、产品、服装、环境、UI、道具
+声音意图：环境音、音效、对白或音乐的职责
+编辑范围：允许修改什么、必须保持什么
+避免：视觉、物理、连续性、法律和品牌风险
+```
+
+仓库不会编造接口参数。请先阅读 [H3 模型说明与官方资源](./docs/minimax-h3-overview.md)，当前模型标识、支持输入、限制、API 字段、模型许可和可下载版本能力以 MiniMax 官方文档及模型卡为准。
+
+### 检查步骤
 
 1. 按最终交付物和主要制作风险选择配方。
 2. 只上传真正需要的参考素材，并为每个素材标记职责。
@@ -196,6 +201,22 @@ MiniMax 官方 H3 资料强调三类能力：文字、图片、音频、视频�
 
 多语言制作应从英文规范源开始，完整翻译动作、镜头、声音和约束，而不是只翻译风格词。[多语言指南](./docs/multilingual-prompting.md)提供简体中文、日语、韩语、西班牙语、法语、德语、葡萄牙语和阿拉伯语完整示例。
 
+</details>
+
+<details>
+<summary>官方资源与本地部署范围</summary>
+
+- **H3 官方仓库：** [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+- **H3 模型卡与开放权重：** [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+- **本地部署：** [九语言开源部署指南](./docs/deployment-guide.md)
+- **官方视频和 Skill：** [带来源标注的官方示例画廊](./docs/official-h3-examples.md)
+- **H3 官方能力与提示词示例：** [MiniMax 视频提示词指南](https://platform.minimaxi.com/docs/guides/video-prompt)
+- **托管视频生成流程：** [MiniMax 视频生成文档](https://platform.minimaxi.com/docs/guides/video-generation)
+
+当前开放版本提供 H3-Base FL2VA 与 Ref2VA 权重，可在本地生成 768p 原生音视频；H3-Context-IR 与 H3-Regenerate-2K 仍是托管组件，完整 2K 流程需要本地生成与官方 API 配合。部署或商用前，请核对最新 Community License、支持任务、硬件/运行时要求和实际发布文件。
+
+</details>
+
 ## 原创、版权与安全
 
 - 只提交原创提示词以及拥有必要权利的输入和输出；
@@ -206,6 +227,14 @@ MiniMax 官方 H3 资料强调三类能力：文字、图片、音频、视频�
 - 发布示例时保存模型/工具、输入、设置、日期、人工修改和已知缺陷。
 
 详细规则见[原创与来源政策](./docs/originality-policy.md)、[CONTRIBUTING.md](./CONTRIBUTING.md)和[素材制作规范](./assets/README.md)。
+
+## 欢迎提交你的原创 H3 工作流
+
+如果某条提示词帮你解决了真实制作问题，欢迎通过[结构化提示词提案](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=prompt-proposal.yml)提交。成片不是必需项；高质量提案应说明交付目标、参考素材职责、可见动作、时间线、连续性锁定、声音意图、易错点，以及内容是概念版还是已测试版本。
+
+适合首次参与的任务包括：测试现有配方、补充真实场景缺口、改进审查清单、增加母语适配，或报告已经失效的官方文档。提交前请阅读[贡献指南](./CONTRIBUTING.md)；内容必须原创、权利清晰、可复核，并且不能包含隐藏推广或追踪链接。
+
+[改进文档](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=documentation.yml) · [发起 Pull Request](https://github.com/aivideoweb/awesome-minimax-h3-prompts/pulls)
 
 ## 关于 VideoWeb AI
 

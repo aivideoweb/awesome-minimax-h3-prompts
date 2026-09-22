@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-22 — Homepage navigation
+
+- Added goal-based recipe shortcuts, a copyable five-second starter and visible language/resource navigation.
+- Featured three creator videos; kept all fifteen cases and all twenty-four categories in expandable indexes.
+- Kept all eleven reference images, official examples, production guidance and contribution paths accessible.
+- Extended local-link checks to HTML image sources and links.
+
 ## 2026-09-22 — VideoWeb AI edition
 
 - Imported the complete 84-recipe upstream cookbook; retained source attribution and licensing.

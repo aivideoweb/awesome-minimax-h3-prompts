@@ -4,7 +4,11 @@
 
 **Idiomas:** [English](./README.md) · [简体中文](./README_zh.md) · [日本語](./README_ja.md) · [한국어](./README_ko.md) · [Español](./README_es.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md) · [Português](./README_pt.md)
 
-![VideoWeb AI MiniMax H3](./assets/hero-minimax-h3-video-prompts.webp)
+**[Escolher um prompt (inglês)](./prompts/README.md) · [Ver 15 vídeos](#watch-examples) · [Testar um plano de 5 s (inglês/chinês)](./docs/videoweb-quick-start.md)**
+
+[24 categorias (inglês)](./prompts/README.md) · [Exemplo para copiar em português](./docs/multilingual-prompting.md#portuguêscomédia-silenciosa-em-uma-lavanderia-automática) · [11 imagens de referência (página em inglês)](./README.md#reference-images) · [Vídeos oficiais (inglês)](./docs/official-h3-examples.md)
+
+<img src="./assets/hero-minimax-h3-video-prompts.webp" alt="Capa da coleção de prompts MiniMax H3 da VideoWeb AI" width="560">
 
 ## Criar com VideoWeb AI
 
@@ -14,12 +18,11 @@ Comece com um único plano. Referências de vídeo ou áudio, edição e transfe
 
 [Guia e prompt de 5 segundos para copiar (inglês e chinês)](./docs/videoweb-quick-start.md)
 
-
 Esta edição mantém 84 prompts e 11 imagens de referência da Flaq AI e acrescenta uma capa do VideoWeb AI. [Source / 来源](./UPSTREAM.md)
 
 ## O que você encontra
 
-- 84 prompts audiovisuais originais em 24 categorias de produção;
+- 84 prompts audiovisuais do projeto de origem em 24 categorias de produção;
 - Estruturas orientadas ao H3 para referências de imagem, vídeo e áudio;
 - Regras de continuidade para identidade, produto, figurino, cenário e direção de tela;
 - Modelos para anúncios, produtos, UI, animação e redes sociais;
@@ -27,40 +30,43 @@ Esta edição mantém 84 prompts e 11 imagens de referência da Flaq AI e acresc
 
 → **[Explorar os 84 prompts](./prompts/README.md)**
 
-## MiniMax H3 no X: vídeos e prompts
+<a id="watch-examples"></a>
 
-Seis exemplos selecionados de uma galeria de quinze: tipografia, produtos, personagens e direção de cenas. Abra o vídeo, a publicação com o prompt completo do autor ou as notas em inglês e chinês.
+## Vídeos no X e prompts dos autores
 
-| Case | Vídeo | X e prompt completo | Trecho e notas |
-|---|---|---|---|
-| Kinetic typography: a quote becomes a story · @umesh_ai | [▶](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2083909535593644291) | [XH3-001](./docs/x-community-showcase.md#xh3-001) |
-| Headphone commercial: macro to exploded view · @LudovicCreator | [▶](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2082783319075291312) | [XH3-002](./docs/x-community-showcase.md#xh3-002) |
-| Character entrance: detail to full silhouette · @aimikoda | [▶](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) | [X](https://x.com/aimikoda/status/2086412223061135392) | [XH3-003](./docs/x-community-showcase.md#xh3-003) |
-| Blue-studio fashion: three references in one scene · @egeberkina | [▶](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) | [X](https://x.com/egeberkina/status/2083301476206588086) | [XH3-004](./docs/x-community-showcase.md#xh3-004) |
-| Bamboo-forest mystery: tension through close-ups · @sipteaandcoffee | [▶](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) | [X](https://x.com/sipteaandcoffee/status/2083132770650571041) | [XH3-005](./docs/x-community-showcase.md#xh3-005) |
-| Ordinary footage, impossible event: a useful mismatch · @cocktailpeanut | [▶](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) | [X](https://x.com/cocktailpeanut/status/2086879654116495564) | [XH3-006](./docs/x-community-showcase.md#xh3-006) |
+15 exemplos de criadores externos. As prévias abrem os vídeos no X; os links levam ao prompt do autor e às notas em inglês e chinês. Não são resultados do VideoWeb nem testes desta biblioteca.
 
-Verificados em 20 de setembro de 2026 por um leitor público do X e quadros extraídos dos vídeos, sem geração independente. As obras externas pertencem aos criadores e não estão cobertas pela licença MIT do repositório.
-
-### Mais exemplos no X
-
-Nove novos casos ampliam a galeria para quinze. Os títulos abrem notas em inglês e chinês; vídeos e prompts dos autores têm links separados.
-
-| Caso | Vídeo | Prompt do autor |
+| Headphone commercial: macro to exploded view | Game interface: a readable turn-based sequence | Motion poster: assemble a layout without losing it |
 |---|---|---|
-| [Beat-driven western title sequence](./docs/x-community-showcase.md#xh3-007) · @doctorwasif | [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) | [X](https://x.com/doctorwasif/status/2085599659326935100) |
-| [Skincare campaign: night-to-morning continuity](./docs/x-community-showcase.md#xh3-008) · @AIwithJessica | [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) | [X](https://x.com/AIwithJessica/status/2083013658230317082) |
-| [Suspense short: dialogue, reaction and sound reversal](./docs/x-community-showcase.md#xh3-009) · @drjoetw | [▶ MP4 — susto repentino e flashes](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [X](https://x.com/drjoetw/status/2082669221222207488) |
-| [Swimming sequence: distinguish four motion patterns](./docs/x-community-showcase.md#xh3-010) · @johnAGI168 | [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) | [X](https://x.com/johnAGI168/status/2082798969499832514) |
-| [Game interface: a readable turn-based sequence](./docs/x-community-showcase.md#xh3-011) · @AllaAisling | [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | [X](https://x.com/AllaAisling/status/2082909383424446745) |
-| [Street-food vlog: place, preparation and reaction](./docs/x-community-showcase.md#xh3-012) · @nawalsehar | [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | [X](https://x.com/nawalsehar/status/2085233880353915217) |
-| [Cliffside chase: one continuous camera path](./docs/x-community-showcase.md#xh3-013) · @umesh_ai | [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2082499539735588916) |
-| [Motion poster: assemble a layout without losing it](./docs/x-community-showcase.md#xh3-014) · @LudovicCreator | [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2083628879407632890) |
-| [Japanese animation teaser: identity and expression control](./docs/x-community-showcase.md#xh3-015) · @haruuraeadss | [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) | [X](https://x.com/haruuraeadss/status/2082945363431080299) |
+| [![Headphone commercial: macro to exploded view — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![Game interface: a readable turn-based sequence — @AllaAisling](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![Motion poster: assemble a layout without losing it — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
+| [@LudovicCreator](https://x.com/LudovicCreator) · [MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [X](https://x.com/LudovicCreator/status/2082783319075291312) · [XH3-002](./docs/x-community-showcase.md#xh3-002) | [@AllaAisling](https://x.com/AllaAisling) · [MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [X](https://x.com/AllaAisling/status/2082909383424446745) · [XH3-011](./docs/x-community-showcase.md#xh3-011) | [@LudovicCreator](https://x.com/LudovicCreator) · [MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [X](https://x.com/LudovicCreator/status/2083628879407632890) · [XH3-014](./docs/x-community-showcase.md#xh3-014) |
 
-Verificados em 22 de setembro de 2026 por um leitor público e quadros extraídos; sem nova geração nem análise do áudio. Cada caso informa as referências necessárias.
+**[Ver 15 vídeos](./docs/x-community-showcase.md)**
 
+<details>
+<summary>Mostrar os 15 casos</summary>
 
+| Caso e notas | Vídeo | Prompt do autor |
+|---|---|---|
+| [Kinetic typography: a quote becomes a story](./docs/x-community-showcase.md#xh3-001) · [@umesh_ai](https://x.com/umesh_ai) | [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2083909535593644291) |
+| [Headphone commercial: macro to exploded view](./docs/x-community-showcase.md#xh3-002) · [@LudovicCreator](https://x.com/LudovicCreator) | [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2082783319075291312) |
+| [Character entrance: detail to full silhouette](./docs/x-community-showcase.md#xh3-003) · [@aimikoda](https://x.com/aimikoda) | [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) | [X](https://x.com/aimikoda/status/2086412223061135392) |
+| [Blue-studio fashion: three references in one scene](./docs/x-community-showcase.md#xh3-004) · [@egeberkina](https://x.com/egeberkina) | [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) | [X](https://x.com/egeberkina/status/2083301476206588086) |
+| [Bamboo-forest mystery: tension through close-ups](./docs/x-community-showcase.md#xh3-005) · [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) | [X](https://x.com/sipteaandcoffee/status/2083132770650571041) |
+| [Ordinary footage, impossible event: a useful mismatch](./docs/x-community-showcase.md#xh3-006) · [@cocktailpeanut](https://x.com/cocktailpeanut) | [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) | [X](https://x.com/cocktailpeanut/status/2086879654116495564) |
+| [Beat-driven western title sequence](./docs/x-community-showcase.md#xh3-007) · [@doctorwasif](https://x.com/doctorwasif) | [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) | [X](https://x.com/doctorwasif/status/2085599659326935100) |
+| [Skincare campaign: night-to-morning continuity](./docs/x-community-showcase.md#xh3-008) · [@AIwithJessica](https://x.com/AIwithJessica) | [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) | [X](https://x.com/AIwithJessica/status/2083013658230317082) |
+| [Suspense short: dialogue, reaction and sound reversal](./docs/x-community-showcase.md#xh3-009) · [@drjoetw](https://x.com/drjoetw) | [▶ MP4 — susto repentino e flashes](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [X](https://x.com/drjoetw/status/2082669221222207488) |
+| [Swimming sequence: distinguish four motion patterns](./docs/x-community-showcase.md#xh3-010) · [@johnAGI168](https://x.com/johnAGI168) | [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) | [X](https://x.com/johnAGI168/status/2082798969499832514) |
+| [Game interface: a readable turn-based sequence](./docs/x-community-showcase.md#xh3-011) · [@AllaAisling](https://x.com/AllaAisling) | [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | [X](https://x.com/AllaAisling/status/2082909383424446745) |
+| [Street-food vlog: place, preparation and reaction](./docs/x-community-showcase.md#xh3-012) · [@nawalsehar](https://x.com/nawalsehar) | [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | [X](https://x.com/nawalsehar/status/2085233880353915217) |
+| [Cliffside chase: one continuous camera path](./docs/x-community-showcase.md#xh3-013) · [@umesh_ai](https://x.com/umesh_ai) | [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2082499539735588916) |
+| [Motion poster: assemble a layout without losing it](./docs/x-community-showcase.md#xh3-014) · [@LudovicCreator](https://x.com/LudovicCreator) | [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2083628879407632890) |
+| [Japanese animation teaser: identity and expression control](./docs/x-community-showcase.md#xh3-015) · [@haruuraeadss](https://x.com/haruuraeadss) | [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) | [X](https://x.com/haruuraeadss/status/2082945363431080299) |
+
+</details>
+
+Verificados em 20 e 22 de setembro de 2026 por um leitor público e quadros extraídos; sem nova geração nem análise do áudio. As obras externas não estão cobertas pela licença MIT.
 
 [Visão geral do H3](./docs/minimax-h3-overview.md) · [Implantação](./docs/deployment-guide.md) · [Vídeos oficiais](./docs/official-h3-examples.md) · [Modelos](./templates/README.md) · [Guia de prompts](./docs/prompting-guide.md) · [Matriz de usos](./docs/use-case-matrix.md) · [Contribuir](./CONTRIBUTING.md)
 

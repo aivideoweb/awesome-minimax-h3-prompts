@@ -26,7 +26,9 @@ check(len(recipes)==24,f'Expected 24 categories, got {len(recipes)}')
 check(len(ids)==84 and len(set(ids))==84,f'Expected 84 unique recipes, got {len(ids)}')
 for p in ROOT.rglob('*.md'):
     text=p.read_text()
-    for url in re.findall(r'\]\(([^\s)]+)(?:\s+"[^"]*")?\)',text):
+    links = re.findall(r'\]\(([^\s)]+)(?:\s+"[^"]*")?\)', text)
+    links += re.findall(r'(?:src|href)=["\']([^"\']+)["\']', text)
+    for url in links:
         if re.match(r'[a-zA-Z]+:',url): continue
         path,_,fragment=unquote(url).partition('#')
         target=(p.parent/path).resolve() if path else p
@@ -64,6 +66,8 @@ notice_words = {'README.md': 'jump scare / flashing', 'README_zh.md': '惊吓与
 for name, notice in notice_words.items():
     line = next((l for l in (ROOT/name).read_text().splitlines() if '#xh3-009)' in l), '')
     check(notice in line, f'{name}: missing XH3-009 playback notice')
+for p in ROOT.glob('README*.md'):
+    check(not re.search(r' · @[A-Za-z0-9_]+', p.read_text()), f'{p.name}: unlinked X author handle')
 for p in recipes:
     check('```text' in p.read_text(), f'{p.name}: missing copyable prompt blocks')
 if errors:
