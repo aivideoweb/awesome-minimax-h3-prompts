@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-22 — Reference gallery readability
+
+- Replaced the three-column reference grid with one image and its instructions per row, grouped by use on the English and Chinese homepages.
+- Kept all eleven originals visible, added consistent preview widths and image links, and described the required inputs beside each recipe.
+- Moved general image-production records out of the gallery cells.
+
 ## 2026-09-22 — Input, contribution and status consistency
 
 - Added a separate bilingual fictional-canal practice adaptation; retained TRV-001 and clarified that its three verified location inputs are not supplied by the gallery image.
