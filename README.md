@@ -160,19 +160,68 @@ Browse the [complete attributed official example gallery](./docs/official-h3-exa
 
 Click an image for the original and the link below it for the prompt. These images are first-frame, end-frame or mood references, not proof of H3 output; check each recipe for additional required inputs.
 
-| Brand and product | UGC and lifestyle | Travel and hospitality |
-|---|---|---|
-| [<img src="./assets/gallery/midnight-observatory-tea.webp" alt="Fictional bottled tea in a mountaintop observatory before sunrise" width="280">](./assets/gallery/midnight-observatory-tea.webp) | [<img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="Adult creator testing an original foldable desk lamp in a home office" width="280">](./assets/gallery/honest-desk-lamp-demo.webp) | [<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="Rain-washed fictional canal neighborhood with bicycle and stone bridge" width="280">](./assets/gallery/rain-washed-canal-morning.webp) |
-| [BRD-001 prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 prompt](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [Fictional-canal exercise](./docs/fictional-canal-starter.md#english) |
-| **Animation and character** | **Action and sports** | **H3 reference-image briefs** |
-| [<img src="./assets/gallery/clay-repair-robot.webp" alt="Original mustard clay repair robot in a miniature wooden workshop" width="280">](./assets/gallery/clay-repair-robot.webp) | [<img src="./assets/gallery/indoor-climbing-final-hold.webp" alt="Fictional adult climber on an indoor yellow route with safety equipment" width="280">](./assets/gallery/indoor-climbing-final-hold.webp) | All twelve visual concepts include reusable, original [model-neutral H3 reference-image briefs](./assets/minimax-h3-reference-image-prompts.md). |
-| [ANI-002 prompt](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | [ACT-001 prompt](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) | [Asset production notes](./assets/README.md) |
-| **Camera-transfer product** | **Character dialogue** | **Multi-reference one-take** |
-| [<img src="./assets/gallery/radial-cork-speaker.webp" alt="Original fictional graphite-and-cork portable speaker" width="280">](./assets/gallery/radial-cork-speaker.webp) | [<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="Original indigo and saffron paper birds inside a storm-lit greenhouse" width="280">](./assets/gallery/paper-birds-storm-shelter.webp) | [<img src="./assets/gallery/three-biome-museum-rail.webp" alt="Original handcrafted museum rail across three tabletop biomes" width="280">](./assets/gallery/three-biome-museum-rail.webp) |
-| [MRF-002 prompt](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | [CHR-001 prompt](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) | [MRF-001 prompt](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) |
-| **Dynamic poster** | **Practical surrealism** | **Live creator demo** |
-| [<img src="./assets/gallery/dynamic-night-market-poster.webp" alt="Original paper-collage night-market poster with blank typography panel" width="280">](./assets/gallery/dynamic-night-market-poster.webp) | [<img src="./assets/gallery/topographic-map-archive.webp" alt="Original archive map rising into a handcrafted miniature landscape" width="280">](./assets/gallery/topographic-map-archive.webp) | [<img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="Original unbranded modular lunch-jar kit with five components" width="280">](./assets/gallery/modular-lunch-jar-kit.webp) |
-| [MOG-001 prompt](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | [SRL-001 prompt](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) | [VER-001 prompt](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
+<table>
+<tr>
+<td width="33%">Brand and product</td>
+<td width="33%">UGC and lifestyle</td>
+<td width="33%">Travel and hospitality</td>
+</tr>
+<tr>
+<td width="33%"><a href="./assets/gallery/midnight-observatory-tea.webp"><img src="./assets/gallery/midnight-observatory-tea.webp" alt="Fictional bottled tea in a mountaintop observatory before sunrise" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/honest-desk-lamp-demo.webp"><img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="Adult creator testing an original foldable desk lamp in a home office" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/rain-washed-canal-morning.webp"><img src="./assets/gallery/rain-washed-canal-morning.webp" alt="Rain-washed fictional canal neighborhood with bicycle and stone bridge" width="280"></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch">BRD-001 prompt</a></td>
+<td width="33%"><a href="./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression">UGC-001 prompt</a></td>
+<td width="33%"><a href="./docs/fictional-canal-starter.md#english">Fictional-canal exercise</a></td>
+</tr>
+<tr>
+<td width="33%"><strong>Animation and character</strong></td>
+<td width="33%"><strong>Action and sports</strong></td>
+<td width="33%"><strong>H3 reference-image briefs</strong></td>
+</tr>
+<tr>
+<td width="33%"><a href="./assets/gallery/clay-repair-robot.webp"><img src="./assets/gallery/clay-repair-robot.webp" alt="Original mustard clay repair robot in a miniature wooden workshop" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/indoor-climbing-final-hold.webp"><img src="./assets/gallery/indoor-climbing-final-hold.webp" alt="Fictional adult climber on an indoor yellow route with safety equipment" width="280"></a></td>
+<td width="33%">All twelve visual concepts include reusable, original <a href="./assets/minimax-h3-reference-image-prompts.md">model-neutral H3 reference-image briefs</a>.</td>
+</tr>
+<tr>
+<td width="33%"><a href="./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button">ANI-002 prompt</a></td>
+<td width="33%"><a href="./prompts/09-action-sports.md#act-001-indoor-climbing-final-move">ACT-001 prompt</a></td>
+<td width="33%"><a href="./assets/README.md">Asset production notes</a></td>
+</tr>
+<tr>
+<td width="33%"><strong>Camera-transfer product</strong></td>
+<td width="33%"><strong>Character dialogue</strong></td>
+<td width="33%"><strong>Multi-reference one-take</strong></td>
+</tr>
+<tr>
+<td width="33%"><a href="./assets/gallery/radial-cork-speaker.webp"><img src="./assets/gallery/radial-cork-speaker.webp" alt="Original fictional graphite-and-cork portable speaker" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/paper-birds-storm-shelter.webp"><img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="Original indigo and saffron paper birds inside a storm-lit greenhouse" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/three-biome-museum-rail.webp"><img src="./assets/gallery/three-biome-museum-rail.webp" alt="Original handcrafted museum rail across three tabletop biomes" width="280"></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content">MRF-002 prompt</a></td>
+<td width="33%"><a href="./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm">CHR-001 prompt</a></td>
+<td width="33%"><a href="./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take">MRF-001 prompt</a></td>
+</tr>
+<tr>
+<td width="33%"><strong>Dynamic poster</strong></td>
+<td width="33%"><strong>Practical surrealism</strong></td>
+<td width="33%"><strong>Live creator demo</strong></td>
+</tr>
+<tr>
+<td width="33%"><a href="./assets/gallery/dynamic-night-market-poster.webp"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="Original paper-collage night-market poster with blank typography panel" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/topographic-map-archive.webp"><img src="./assets/gallery/topographic-map-archive.webp" alt="Original archive map rising into a handcrafted miniature landscape" width="280"></a></td>
+<td width="33%"><a href="./assets/gallery/modular-lunch-jar-kit.webp"><img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="Original unbranded modular lunch-jar kit with five components" width="280"></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">MOG-001 prompt</a></td>
+<td width="33%"><a href="./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape">SRL-001 prompt</a></td>
+<td width="33%"><a href="./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo">VER-001 prompt</a></td>
+</tr>
+</table>
 
 The canal image links to a single-image exercise; [original TRV-001](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) requires three verified location images. See also the [VideoWeb cover notes](./assets/videoweb-cover-prompt.md).
 
