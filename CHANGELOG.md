@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-22 — Case navigation and contributions
+
+- Grouped all fifteen visible community cases by five practical uses, with in-page navigation in eight languages.
+- Added prompt, documentation and pull-request contribution links before the cover across all eight homepages.
+
 ## 2026-09-22 — Restore the full homepage showcase
 
 - Restored expanded categories, all eleven reference images, prompt guidance and official resources on the English and Chinese homepages.

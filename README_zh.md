@@ -10,6 +10,8 @@
 
 更多内容：[全部 24 个分类](#full-catalog) · [11 张参考图](#reference-images) · [制作模板](./templates/README.md) · [部署指南](./docs/deployment-guide.md)
 
+**参与共建：** [提交提示词](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=prompt-proposal.yml) · [改进文档](https://github.com/aivideoweb/awesome-minimax-h3-prompts/issues/new?template=documentation.yml) · [发起合并请求](https://github.com/aivideoweb/awesome-minimax-h3-prompts/pulls)
+
 <img src="./assets/hero-minimax-h3-video-prompts.webp" alt="VideoWeb AI MiniMax H3 提示词库封面" width="960">
 
 提示词正文以英文为主；[多语言示例](./docs/multilingual-prompting.md)提供中文等 8 种语言。84 条提示词与 11 张参考图继承自源库，VideoWeb 新增品牌封面及使用指南，详见[来源说明](./UPSTREAM.md)。
@@ -64,40 +66,62 @@
 
 以下是外部作者作品，不是本库提示词的测试结果，也不是 VideoWeb 生成证明。点击预览打开 X 视频；每条另有 MP4、原始提示词与解析入口。
 
-| 动态文字：让一句话变成视觉叙事 | 耳机广告：从材质微距到结构拆解 | 角色登场：从局部揭示到完整轮廓 |
-|---|---|---|
-| [![动态文字：让一句话变成视觉叙事](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![耳机广告：从材质微距到结构拆解](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![角色登场：从局部揭示到完整轮廓](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) |
-| [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [作者提示词](https://x.com/umesh_ai/status/2083909535593644291) · [解析](./docs/x-community-showcase.md#xh3-001) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [作者提示词](https://x.com/LudovicCreator/status/2082783319075291312) · [解析](./docs/x-community-showcase.md#xh3-002) | [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [作者提示词](https://x.com/aimikoda/status/2086412223061135392) · [解析](./docs/x-community-showcase.md#xh3-003) |
-| **学什么：** 为各段文字分配时间、字号变化与转场，最后留出静止阅读时间。 | **学什么：** 四段时间线连接材质细节、产品旋转、零件分离和重新组装；重点学习几何形状的连续性约束。 | **学什么：** 用一个身份参考贯穿局部、身体、表情和全身轮廓的逐步揭示；复现时需要准备角色参考图。 |
-| **注意：** 检查逐字拼写与结尾阅读停顿。 | **注意：** 生成的内部结构不代表真实产品构造。 | **注意：** 发布版附带角色设定图，不能把它的尺寸当成模型原生比例。 |
+**按用途看案例：** [产品与时尚广告](#examples-products) · [人物与表演](#examples-characters) · [动作与运镜](#examples-motion) · [文字与界面](#examples-graphics) · [剪辑与叙事](#examples-storytelling)
 
-| 蓝色摄影棚时尚片：三参考同场 | 竹林悬疑：用近景与正反打建立张力 | 日常影像与不可能事件：值得研究的偏差 |
-|---|---|---|
-| [![蓝色摄影棚时尚片：三参考同场](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![竹林悬疑：用近景与正反打建立张力](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) | [![日常影像与不可能事件：值得研究的偏差](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) |
-| [@egeberkina](https://x.com/egeberkina) · [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [作者提示词](https://x.com/egeberkina/status/2083301476206588086) · [解析](./docs/x-community-showcase.md#xh3-004) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [作者提示词](https://x.com/sipteaandcoffee/status/2083132770650571041) · [解析](./docs/x-community-showcase.md#xh3-005) | [@cocktailpeanut](https://x.com/cocktailpeanut) · [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [作者提示词](https://x.com/cocktailpeanut/status/2086879654116495564) · [解析](./docs/x-community-showcase.md#xh3-006) |
-| **学什么：** 提示词为每张参考图指定不同主体，再结合编舞与图形叠加；仅有文字不足以完整复现，还需要身份素材。 | **学什么：** 以色彩、景深、布光和正反打组织戏剧张力；原文限制时代环境，但没有提供带时间点的对白脚本。 | **学什么：** 通过日常活动铺垫再引出不可能事件，适合研究伏笔、突变，以及模型是否按指定物理事件执行。 |
-| **注意：** 复现需要获得授权的人物参考素材。 | **注意：** 原文给出场景方向，没有带时间点的对白脚本。 | **注意：** 抽帧显示街道与云墙，并非原文要求的后院与下坠固体天空。 |
+<a id="examples-products"></a>
 
-| 西部片头：让剪辑服从节拍 | 护肤广告：夜晚到清晨的连续性 | 悬疑短片：对白、反应与声音反转 |
-|---|---|---|
-| [![西部片头：让剪辑服从节拍](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | [![护肤广告：夜晚到清晨的连续性](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1) | **含突袭惊吓与闪屏**<br>[![悬疑短片：对白、反应与声音反转 — 含突袭惊吓与闪屏](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1) |
-| [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [作者提示词](https://x.com/doctorwasif/status/2085599659326935100) · [解析](./docs/x-community-showcase.md#xh3-007) | [@AIwithJessica](https://x.com/AIwithJessica) · [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [作者提示词](https://x.com/AIwithJessica/status/2083013658230317082) · [解析](./docs/x-community-showcase.md#xh3-008) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — 含突袭惊吓与闪屏](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [作者提示词](https://x.com/drjoetw/status/2082669221222207488) · [解析](./docs/x-community-showcase.md#xh3-009) |
-| **学什么：** 学习静止姿态与短动作交替，并让标题落在音乐重拍上。 | **学什么：** 观察同一人物和产品如何跨越光线、景别与地点变化；对照开头与结尾的产品外观。 | **学什么：** 先制造疑问，再跟随指向动作揭示目标，用反应镜头收束；声音变化承担气氛反转。 |
-| **注意：** 抽帧标题字形异常；需修字，并完整播放核对节拍。 | **注意：** 灯光是广告创意表现，不是护肤功效证明。 | **注意：** 含惊吓与闪屏。提示词要求 9:16，上传视频实际为 16:9。 |
+### 产品与时尚广告
 
-| 游泳片段：区分四种动作 | 游戏界面：让回合过程清楚可读 | 街头美食：环境、制作与人物反应 |
+| 耳机广告：从材质微距到结构拆解 | 蓝色摄影棚时尚片：三参考同场 | 护肤广告：夜晚到清晨的连续性 |
 |---|---|---|
-| [![游泳片段：区分四种动作](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1) | [![游戏界面：让回合过程清楚可读](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![街头美食：环境、制作与人物反应](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
-| [@johnAGI168](https://x.com/johnAGI168) · [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [作者提示词](https://x.com/johnAGI168/status/2082798969499832514) · [解析](./docs/x-community-showcase.md#xh3-010) | [@AllaAisling](https://x.com/AllaAisling) · [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [作者提示词](https://x.com/AllaAisling/status/2082909383424446745) · [解析](./docs/x-community-showcase.md#xh3-011) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [作者提示词](https://x.com/nawalsehar/status/2085233880353915217) · [解析](./docs/x-community-showcase.md#xh3-012) |
-| **学什么：** 重点研究动作能否看清：检查泳姿切换，以及分配的时间是否足够辨认动作。 | **学什么：** 沿状态变化阅读：发牌、选择、执行、资源更新、对方回合；检查镜头变化时界面是否固定。 | **学什么：** 对比环境全景、制作细节和试吃反应，理解三者不同的叙事作用。 |
-| **注意：** 抽帧不能证明泳姿正确，不宜当作教学。 | **注意：** 部分画面将卡牌与场景分栏，需核对是否符合完整游戏界面的目标。 | **注意：** 生成地点与人物反应不能充当纪实证据或真实评价。 |
+| [![耳机广告：从材质微距到结构拆解](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![蓝色摄影棚时尚片：三参考同场](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![护肤广告：夜晚到清晨的连续性](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1) |
+| [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [作者提示词](https://x.com/LudovicCreator/status/2082783319075291312) · [解析](./docs/x-community-showcase.md#xh3-002) | [@egeberkina](https://x.com/egeberkina) · [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [作者提示词](https://x.com/egeberkina/status/2083301476206588086) · [解析](./docs/x-community-showcase.md#xh3-004) | [@AIwithJessica](https://x.com/AIwithJessica) · [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [作者提示词](https://x.com/AIwithJessica/status/2083013658230317082) · [解析](./docs/x-community-showcase.md#xh3-008) |
+| **学什么：** 四段时间线连接材质细节、产品旋转、零件分离和重新组装；重点学习几何形状的连续性约束。 | **学什么：** 提示词为每张参考图指定不同主体，再结合编舞与图形叠加；仅有文字不足以完整复现，还需要身份素材。 | **学什么：** 观察同一人物和产品如何跨越光线、景别与地点变化；对照开头与结尾的产品外观。 |
+| **注意：** 生成的内部结构不代表真实产品构造。 | **注意：** 复现需要获得授权的人物参考素材。 | **注意：** 灯光是广告创意表现，不是护肤功效证明。 |
 
-| 悬崖追逐：连续运镜的空间路线 | 动态海报：逐步组装但不破坏版式 | 日语动画预告：身份与表情控制 |
+<a id="examples-characters"></a>
+
+### 人物与表演
+
+| 角色登场：从局部揭示到完整轮廓 | 竹林悬疑：用近景与正反打建立张力 | 日语动画预告：身份与表情控制 |
 |---|---|---|
-| [![悬崖追逐：连续运镜的空间路线](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1) | [![动态海报：逐步组装但不破坏版式](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) | [![日语动画预告：身份与表情控制](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1) |
-| [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [作者提示词](https://x.com/umesh_ai/status/2082499539735588916) · [解析](./docs/x-community-showcase.md#xh3-013) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [作者提示词](https://x.com/LudovicCreator/status/2083628879407632890) · [解析](./docs/x-community-showcase.md#xh3-014) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [作者提示词](https://x.com/haruuraeadss/status/2082945363431080299) · [解析](./docs/x-community-showcase.md#xh3-015) |
-| **学什么：** 观察障碍如何推动重新构图，同时让运动主体持续吸引视线；结尾从追逐转为开阔空间展示。 | **学什么：** 把海报拆成按顺序进入的图层，再留出阅读停顿；保持视觉层级，不让所有区域同时运动。 | **学什么：** 把人物外观固定项与允许变化的表情、动作分开；镜头变化对应发现线索的时刻。 |
-| **注意：** 完整播放检查障碍穿越与运镜连续性。 | **注意：** 全尺寸检查小字与版式漂移；要求时长与上传时长不同。 | **注意：** 复现需要角色设定图；全分辨率检查身份一致性与标题拼写。 |
+| [![角色登场：从局部揭示到完整轮廓](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) | [![竹林悬疑：用近景与正反打建立张力](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) | [![日语动画预告：身份与表情控制](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1) |
+| [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [作者提示词](https://x.com/aimikoda/status/2086412223061135392) · [解析](./docs/x-community-showcase.md#xh3-003) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [作者提示词](https://x.com/sipteaandcoffee/status/2083132770650571041) · [解析](./docs/x-community-showcase.md#xh3-005) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [作者提示词](https://x.com/haruuraeadss/status/2082945363431080299) · [解析](./docs/x-community-showcase.md#xh3-015) |
+| **学什么：** 用一个身份参考贯穿局部、身体、表情和全身轮廓的逐步揭示；复现时需要准备角色参考图。 | **学什么：** 以色彩、景深、布光和正反打组织戏剧张力；原文限制时代环境，但没有提供带时间点的对白脚本。 | **学什么：** 把人物外观固定项与允许变化的表情、动作分开；镜头变化对应发现线索的时刻。 |
+| **注意：** 发布版附带角色设定图，不能把它的尺寸当成模型原生比例。 | **注意：** 原文给出场景方向，没有带时间点的对白脚本。 | **注意：** 复现需要角色设定图；全分辨率检查身份一致性与标题拼写。 |
+
+<a id="examples-motion"></a>
+
+### 动作与运镜
+
+| 日常影像与不可能事件：值得研究的偏差 | 游泳片段：区分四种动作 | 悬崖追逐：连续运镜的空间路线 |
+|---|---|---|
+| [![日常影像与不可能事件：值得研究的偏差](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) | [![游泳片段：区分四种动作](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1) | [![悬崖追逐：连续运镜的空间路线](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1) |
+| [@cocktailpeanut](https://x.com/cocktailpeanut) · [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [作者提示词](https://x.com/cocktailpeanut/status/2086879654116495564) · [解析](./docs/x-community-showcase.md#xh3-006) | [@johnAGI168](https://x.com/johnAGI168) · [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [作者提示词](https://x.com/johnAGI168/status/2082798969499832514) · [解析](./docs/x-community-showcase.md#xh3-010) | [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [作者提示词](https://x.com/umesh_ai/status/2082499539735588916) · [解析](./docs/x-community-showcase.md#xh3-013) |
+| **学什么：** 通过日常活动铺垫再引出不可能事件，适合研究伏笔、突变，以及模型是否按指定物理事件执行。 | **学什么：** 重点研究动作能否看清：检查泳姿切换，以及分配的时间是否足够辨认动作。 | **学什么：** 观察障碍如何推动重新构图，同时让运动主体持续吸引视线；结尾从追逐转为开阔空间展示。 |
+| **注意：** 抽帧显示街道与云墙，并非原文要求的后院与下坠固体天空。 | **注意：** 抽帧不能证明泳姿正确，不宜当作教学。 | **注意：** 完整播放检查障碍穿越与运镜连续性。 |
+
+<a id="examples-graphics"></a>
+
+### 文字与界面
+
+| 动态文字：让一句话变成视觉叙事 | 游戏界面：让回合过程清楚可读 | 动态海报：逐步组装但不破坏版式 |
+|---|---|---|
+| [![动态文字：让一句话变成视觉叙事](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![游戏界面：让回合过程清楚可读](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![动态海报：逐步组装但不破坏版式](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
+| [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [作者提示词](https://x.com/umesh_ai/status/2083909535593644291) · [解析](./docs/x-community-showcase.md#xh3-001) | [@AllaAisling](https://x.com/AllaAisling) · [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [作者提示词](https://x.com/AllaAisling/status/2082909383424446745) · [解析](./docs/x-community-showcase.md#xh3-011) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [作者提示词](https://x.com/LudovicCreator/status/2083628879407632890) · [解析](./docs/x-community-showcase.md#xh3-014) |
+| **学什么：** 为各段文字分配时间、字号变化与转场，最后留出静止阅读时间。 | **学什么：** 沿状态变化阅读：发牌、选择、执行、资源更新、对方回合；检查镜头变化时界面是否固定。 | **学什么：** 把海报拆成按顺序进入的图层，再留出阅读停顿；保持视觉层级，不让所有区域同时运动。 |
+| **注意：** 检查逐字拼写与结尾阅读停顿。 | **注意：** 部分画面将卡牌与场景分栏，需核对是否符合完整游戏界面的目标。 | **注意：** 全尺寸检查小字与版式漂移；要求时长与上传时长不同。 |
+
+<a id="examples-storytelling"></a>
+
+### 剪辑与叙事
+
+| 西部片头：让剪辑服从节拍 | 悬疑短片：对白、反应与声音反转 | 街头美食：环境、制作与人物反应 |
+|---|---|---|
+| [![西部片头：让剪辑服从节拍](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | **含突袭惊吓与闪屏**<br>[![悬疑短片：对白、反应与声音反转 — 含突袭惊吓与闪屏](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1) | [![街头美食：环境、制作与人物反应](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
+| [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [作者提示词](https://x.com/doctorwasif/status/2085599659326935100) · [解析](./docs/x-community-showcase.md#xh3-007) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — 含突袭惊吓与闪屏](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [作者提示词](https://x.com/drjoetw/status/2082669221222207488) · [解析](./docs/x-community-showcase.md#xh3-009) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [作者提示词](https://x.com/nawalsehar/status/2085233880353915217) · [解析](./docs/x-community-showcase.md#xh3-012) |
+| **学什么：** 学习静止姿态与短动作交替，并让标题落在音乐重拍上。 | **学什么：** 先制造疑问，再跟随指向动作揭示目标，用反应镜头收束；声音变化承担气氛反转。 | **学什么：** 对比环境全景、制作细节和试吃反应，理解三者不同的叙事作用。 |
+| **注意：** 抽帧标题字形异常；需修字，并完整播放核对节拍。 | **注意：** 含惊吓与闪屏。提示词要求 9:16，上传视频实际为 16:9。 | **注意：** 生成地点与人物反应不能充当纪实证据或真实评价。 |
 
 完整来源、设定与中英解析见[15 条案例详情](./docs/x-community-showcase.md)。
 
