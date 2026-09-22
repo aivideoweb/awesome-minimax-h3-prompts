@@ -41,7 +41,7 @@ Read the recipe’s duration, input mode and reference map first. Many recipes n
 | Animated poster | [MOG-001](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | Build the layout, then hold for reading |
 | Multiple references or camera transfer | [MRF-002](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | Check video-reference support before preparing inputs |
 
-[All 24 categories on this page](#full-catalog) · **[Browse all 84 recipes](./prompts/README.md)** · [Choose by input type or production risk](./docs/use-case-matrix.md)
+[All 24 categories on this page](#full-catalog) · **[Browse all 84 recipes](./prompts/README.md)** · [Choose by deliverable or production risk](./docs/use-case-matrix.md)
 
 <a id="try-a-shot"></a>
 
@@ -66,7 +66,7 @@ This untested starter is separate from the 84 upstream recipes. Page information
 
 These are external creator examples, not test results of this cookbook or evidence of generation on VideoWeb. Click a preview for the X video; MP4, author prompt and field notes are linked separately.
 
-These links lead to independent recipes and templates in this library, not the prompts used for the videos showcased here. Check required references and tool support before trying them.
+The “Practice a similar technique” links at the end of each group lead to independent recipes and templates in this library, not the prompts used for the showcased videos. Each video’s “Prompt” link leads to the creator’s original prompt. Check required references and tool support before trying them.
 
 **Browse by use case:** [Product and fashion ads](#examples-products) · [Characters and performance](#examples-characters) · [Motion and camera paths](#examples-motion) · [Typography and interfaces](#examples-graphics) · [Editing and storytelling](#examples-storytelling)
 

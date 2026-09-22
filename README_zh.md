@@ -41,7 +41,7 @@
 | 动态海报 | [MOG-001](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | 画面逐步出现，结尾留出阅读时间 |
 | 多参考与运镜迁移 | [MRF-002](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | 先确认工具支持所需的视频参考 |
 
-[本页全部 24 个分类](#full-catalog) · **[浏览完整 84 条提示词](./prompts/README.md)** · [按输入方式和难点选择](./docs/use-case-matrix.md)
+[本页全部 24 个分类](#full-catalog) · **[浏览完整 84 条提示词](./prompts/README.md)** · [按制作目标和难点选择](./docs/use-case-matrix.md)
 
 <a id="try-a-shot"></a>
 
@@ -66,7 +66,7 @@
 
 以下是外部作者作品，不是本库提示词的测试结果，也不是 VideoWeb 生成证明。点击预览打开 X 视频；每条另有 MP4、原始提示词与解析入口。
 
-以下链接是本库独立配方与模板，不是这些视频使用的原提示词。练习前请确认所需参考素材及工具是否支持。
+各组末尾的“练习类似效果”链接指向本库独立配方与模板，并非对应视频的原提示词。每条视频旁的“作者提示词”链接则指向作者原文。练习前请确认所需参考素材及工具是否支持。
 
 **按用途看案例：** [产品与时尚广告](#examples-products) · [人物与表演](#examples-characters) · [动作与运镜](#examples-motion) · [文字与界面](#examples-graphics) · [剪辑与叙事](#examples-storytelling)
 

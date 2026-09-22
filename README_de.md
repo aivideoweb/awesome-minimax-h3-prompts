@@ -38,7 +38,7 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 
 15 Beispiele externer Kreativer. Vorschaubilder öffnen das X-Video; weitere Links führen zum Autorenprompt und zu englischen und chinesischen Erläuterungen. Es sind keine VideoWeb-Ergebnisse oder Tests dieser Bibliothek.
 
-Diese Links führen zu eigenständigen Rezepten und Vorlagen dieser Sammlung, nicht zu den Prompts der gezeigten Videos. Prüfe die benötigten Referenzen und die unterstützten Funktionen deines Werkzeugs.
+Die Links unter „Eine ähnliche Technik üben“ am Ende jeder Gruppe führen zu eigenständigen Rezepten und Vorlagen dieser Sammlung, nicht zu den Prompts der gezeigten Videos. Der Link „Autoren-Prompt“ bei jedem Video führt zum Originalprompt des Erstellers. Prüfe die benötigten Referenzen und die unterstützten Funktionen deines Werkzeugs.
 
 **Nach Einsatzzweck auswählen:** [Produkt- und Modewerbung](#examples-products) · [Figuren und Schauspiel](#examples-characters) · [Bewegung und Kamera](#examples-motion) · [Schrift und Benutzeroberflächen](#examples-graphics) · [Schnitt und Erzählung](#examples-storytelling)
 

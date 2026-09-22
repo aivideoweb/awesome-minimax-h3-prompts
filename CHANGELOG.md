@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-22 — Clarify homepage link labels
+
+- Distinguished group-end practice links from each creator’s original prompt links across eight languages.
+- Aligned the English and Chinese use-case matrix link labels with its deliverable and production-risk organization.
+
 ## 2026-09-22 — Practice links for community examples
 
 - Added related library recipes and templates after each of the five community example groups across eight languages.

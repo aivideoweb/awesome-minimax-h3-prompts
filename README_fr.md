@@ -38,7 +38,7 @@ Cette édition reprend 84 prompts et 11 images de référence de Flaq AI, avec u
 
 15 exemples de créateurs externes. Les aperçus ouvrent les vidéos sur X ; les liens donnent accès au prompt de l’auteur et aux notes en anglais et en chinois. Ce ne sont pas des résultats de VideoWeb ni des tests de cette bibliothèque.
 
-Ces liens mènent aux recettes et modèles indépendants de cette bibliothèque, pas aux prompts utilisés pour les vidéos présentées. Vérifiez les références nécessaires et les fonctions prises en charge par votre outil.
+Les liens « Essayer une technique similaire » à la fin de chaque groupe mènent aux recettes et modèles indépendants de cette bibliothèque, pas aux prompts utilisés pour les vidéos présentées. Le lien « Prompt de l’auteur » de chaque vidéo mène au prompt original du créateur. Vérifiez les références nécessaires et les fonctions prises en charge par votre outil.
 
 **Choisir selon l’usage:** [Publicité produit et mode](#examples-products) · [Personnages et jeu](#examples-characters) · [Mouvement et caméra](#examples-motion) · [Typographie et interfaces](#examples-graphics) · [Montage et narration](#examples-storytelling)
 
