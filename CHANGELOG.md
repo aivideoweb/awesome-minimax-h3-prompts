@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-22 — Match upstream gallery spacing
+
+- Restored four separate gallery groups and centered headings, images and prompt links in English and Chinese.
+- Kept a consistent full-width group layout and limited portrait previews to about 250 pixels tall, preserving original proportions and full-size image links.
+
 ## 2026-09-22 — Keep the reference gallery visual
 
 - Moved reference-image prompts and production notes below the English and Chinese galleries, removed the text-only card, and arranged all eleven images consecutively in three columns.
