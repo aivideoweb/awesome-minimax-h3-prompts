@@ -8,15 +8,27 @@ Find a prompt for an ad, product shot, character scene or short film. Watch crea
 
 **README languages:** [English](./README.md) · [简体中文](./README_zh.md) · [日本語](./README_ja.md) · [한국어](./README_ko.md) · [Español](./README_es.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md) · [Português](./README_pt.md)
 
-More resources: [11 reference images](#reference-images) · [Production templates](./templates/README.md) · [Deployment guide](./docs/deployment-guide.md)
+More resources: [All 24 categories](#full-catalog) · [11 reference images](#reference-images) · [Production templates](./templates/README.md) · [Deployment guide](./docs/deployment-guide.md)
 
-<img src="./assets/hero-minimax-h3-video-prompts.webp" alt="VideoWeb AI MiniMax H3 prompt cookbook editorial cover" width="560">
+<img src="./assets/hero-minimax-h3-video-prompts.webp" alt="VideoWeb AI MiniMax H3 prompt cookbook editorial cover" width="960">
 
 The full recipe library is in English, with [copy-ready samples in eight other languages](./docs/multilingual-prompting.md). Recipes and eleven reference images come from the upstream cookbook; VideoWeb adds the cover and browser guide. [Source and license](./UPSTREAM.md).
+
+The 84 recipes were independently authored for the upstream cookbook. The 15 X community examples are separate learning references and do not count toward the 84 recipes or the 12 visual assets.
+
+## What this cookbook helps you do
+
+- Pick a complete recipe for an ad, product, character or location, then adapt it to your project.
+- Assign each image, video and audio reference a role; specify timing, camera movement and sound.
+- Keep characters, products and scenes consistent, then revise against the review checklist.
+- Learn from community examples while separating author intent, sampled observations and unverified results.
+- Organize delivery with production templates and share tested workflows through the [contribution guide](./CONTRIBUTING.md).
 
 <a id="choose-a-prompt"></a>
 
 ## Choose a prompt by what you want to make
+
+Read the recipe’s duration, input mode and reference map first. Many recipes need reference images or video and run longer than five seconds; adapt them to the free tool’s supported inputs and duration instead of pasting them unchanged.
 
 | Your goal | Start here | First focus |
 |---|---|---|
@@ -27,10 +39,109 @@ The full recipe library is in English, with [copy-ready samples in eight other l
 | Animated poster | [MOG-001](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | Build the layout, then hold for reading |
 | Multiple references or camera transfer | [MRF-002](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | Check video-reference support before preparing inputs |
 
-**[Browse all 84 recipes](./prompts/README.md)** · [Choose by input type or production risk](./docs/use-case-matrix.md)
+[All 24 categories on this page](#full-catalog) · **[Browse all 84 recipes](./prompts/README.md)** · [Choose by input type or production risk](./docs/use-case-matrix.md)
 
-<details>
-<summary>Show all 24 categories</summary>
+<a id="try-a-shot"></a>
+
+## Try your first 5-second shot
+
+| What you need | VideoWeb entry |
+|---|---|
+| Try one shot without signing up | [Free MiniMax H3](https://videoweb.ai/free-minimax-h3/): the page lists 480p, 5 seconds, text or an optional start/end image pair |
+| Regular production with available settings | [MiniMax H3 model page](https://videoweb.ai/model/minimax-h3/): confirm settings, credits and access before generating |
+
+Open the free tool, leave the image fields empty, paste this example and choose an available aspect ratio. Review the bottle shape and camera motion, then change one issue at a time.
+
+```text
+A five-second single continuous shot of a fictional unbranded blue glass bottle on a dark studio plinth. 0–1 seconds: hold a medium close-up, bottle fully visible. 1–4 seconds: the camera slowly moves closer while a soft side light reveals the glass texture; the bottle remains still. 4–5 seconds: settle into a clean product frame. Keep bottle shape, cap, color and background unchanged. No cuts, rotation, added objects, lettering or logos. Sound intent: quiet studio ambience, no speech or music.
+```
+
+This untested starter is separate from the 84 upstream recipes. Page information was checked September 22, 2026; settings and queues may change. Image guidance needs a start/end pair; video or audio references require explicit tool support. See the [walkthrough and troubleshooting guide](./docs/videoweb-quick-start.md).
+
+<a id="watch-examples"></a>
+
+## Watch the video, read the author prompt
+
+These are external creator examples, not test results of this cookbook or evidence of generation on VideoWeb. Click a preview for the X video; MP4, author prompt and field notes are linked separately.
+
+| Kinetic typography: a quote becomes a story | Headphone commercial: macro to exploded view | Character entrance: detail to full silhouette |
+|---|---|---|
+| [![Kinetic typography: a quote becomes a story](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![Headphone commercial: macro to exploded view](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![Character entrance: detail to full silhouette](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) |
+| [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [Prompt](https://x.com/umesh_ai/status/2083909535593644291) · [Notes](./docs/x-community-showcase.md#xh3-001) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [Prompt](https://x.com/LudovicCreator/status/2082783319075291312) · [Notes](./docs/x-community-showcase.md#xh3-002) | [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [Prompt](https://x.com/aimikoda/status/2086412223061135392) · [Notes](./docs/x-community-showcase.md#xh3-003) |
+| **What to learn:** The brief assigns successive phrases their own timing, visual scale and transition. Finish with a readable hold rather than continuous motion. | **What to learn:** Four timed sections connect material detail, a rotating product, separated components and reassembly. The geometry constraints make this useful for studying product continuity. | **What to learn:** A single identity reference anchors a progression from a small detail to body, expression and full silhouette. Reproduction requires a suitable character reference. |
+| **Check:** Check exact spelling and readable hold time. | **Check:** Generated internals are not evidence of real product construction. | **Check:** The published layout includes a character sheet; its dimensions are not a native aspect-ratio setting. |
+
+| Blue-studio fashion: three references in one scene | Bamboo-forest mystery: tension through close-ups | Ordinary footage, impossible event: a useful mismatch |
+|---|---|---|
+| [![Blue-studio fashion: three references in one scene](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![Bamboo-forest mystery: tension through close-ups](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) | [![Ordinary footage, impossible event: a useful mismatch](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) |
+| [@egeberkina](https://x.com/egeberkina) · [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [Prompt](https://x.com/egeberkina/status/2083301476206588086) · [Notes](./docs/x-community-showcase.md#xh3-004) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [Prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) · [Notes](./docs/x-community-showcase.md#xh3-005) | [@cocktailpeanut](https://x.com/cocktailpeanut) · [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [Prompt](https://x.com/cocktailpeanut/status/2086879654116495564) · [Notes](./docs/x-community-showcase.md#xh3-006) |
+| **What to learn:** The prompt gives each reference a distinct actor and combines choreography with graphic overlays. Identity assets are required; the text alone is not a complete reproduction package. | **What to learn:** Color, depth, lighting and shot/reverse-shot coverage carry the drama. The prompt constrains the period setting without supplying a timed dialogue script. | **What to learn:** The brief delays its impossible event behind ordinary activity. This is useful for studying setup and surprise, alongside whether H3 follows the requested physical event. |
+| **Check:** Reproduction needs rights-cleared identity references. | **Check:** The original provides scene direction, not a timed dialogue script. | **Check:** The sampled result shows a street and cloud wall, not the requested backyard and falling solid sky. |
+
+| Beat-driven western title sequence | Skincare campaign: night-to-morning continuity | Suspense short: dialogue, reaction and sound reversal |
+|---|---|---|
+| [![Beat-driven western title sequence](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | [![Skincare campaign: night-to-morning continuity](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1) | **jump scare / flashing**<br>[![Suspense short: dialogue, reaction and sound reversal — jump scare / flashing](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1) |
+| [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [Prompt](https://x.com/doctorwasif/status/2085599659326935100) · [Notes](./docs/x-community-showcase.md#xh3-007) | [@AIwithJessica](https://x.com/AIwithJessica) · [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [Prompt](https://x.com/AIwithJessica/status/2083013658230317082) · [Notes](./docs/x-community-showcase.md#xh3-008) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — jump scare / flashing](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [Prompt](https://x.com/drjoetw/status/2082669221222207488) · [Notes](./docs/x-community-showcase.md#xh3-009) |
+| **What to learn:** Study how held poses alternate with short action bursts, with titles reserved for strong musical accents. | **What to learn:** Track one product and person across changes in lighting, shot size and location; compare the final product frame with its earlier appearance. | **What to learn:** The sequence builds a question, follows a pointing gesture, then answers it through a reaction shot. Audio changes carry the tonal reversal. |
+| **Check:** Sampled title lettering is malformed; repair it and verify beat timing in full playback. | **Check:** The lighting is a fictional ad treatment, not evidence of skincare efficacy. | **Check:** Jump scare / flashing. The prompt asks for 9:16; the uploaded video is 16:9. |
+
+| Swimming sequence: distinguish four motion patterns | Game interface: a readable turn-based sequence | Street-food vlog: place, preparation and reaction |
+|---|---|---|
+| [![Swimming sequence: distinguish four motion patterns](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1) | [![Game interface: a readable turn-based sequence](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![Street-food vlog: place, preparation and reaction](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
+| [@johnAGI168](https://x.com/johnAGI168) · [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [Prompt](https://x.com/johnAGI168/status/2082798969499832514) · [Notes](./docs/x-community-showcase.md#xh3-010) | [@AllaAisling](https://x.com/AllaAisling) · [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [Prompt](https://x.com/AllaAisling/status/2082909383424446745) · [Notes](./docs/x-community-showcase.md#xh3-011) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [Prompt](https://x.com/nawalsehar/status/2085233880353915217) · [Notes](./docs/x-community-showcase.md#xh3-012) |
+| **What to learn:** Use this as a motion-clarity study: inspect transitions and whether each action remains recognizable at the allotted speed. | **What to learn:** Follow state changes: cards appear, one is selected, an action resolves, resources update, then the opposing turn begins. Check whether overlays stay anchored during camera changes. | **What to learn:** Compare wide location context, preparation detail and the tasting reaction; these serve different storytelling purposes. |
+| **Check:** Sampled frames cannot confirm correct swimming technique. | **Check:** Some samples split the cards and scene into panels; check this against the intended full game interface. | **Check:** Generated locations and reactions are not documentary evidence or real testimonials. |
+
+| Cliffside chase: one continuous camera path | Motion poster: assemble a layout without losing it | Japanese animation teaser: identity and expression control |
+|---|---|---|
+| [![Cliffside chase: one continuous camera path](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1) | [![Motion poster: assemble a layout without losing it](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) | [![Japanese animation teaser: identity and expression control](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1) |
+| [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [Prompt](https://x.com/umesh_ai/status/2082499539735588916) · [Notes](./docs/x-community-showcase.md#xh3-013) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [Prompt](https://x.com/LudovicCreator/status/2083628879407632890) · [Notes](./docs/x-community-showcase.md#xh3-014) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [Prompt](https://x.com/haruuraeadss/status/2082945363431080299) · [Notes](./docs/x-community-showcase.md#xh3-015) |
+| **What to learn:** Study how obstacles motivate reframing while the moving subject supplies a continuous point of attention. The ending shifts from pursuit to a wide reveal. | **What to learn:** Treat the poster as layered components that enter in a deliberate order, then settle long enough to read. Preserve hierarchy rather than filling every region with movement. | **What to learn:** Separate the character lock from permitted expression and gesture changes. The prompt also assigns camera changes to moments of discovery. |
+| **Check:** Watch the full clip to check obstacle clearance and camera continuity. | **Check:** Check small text and layout drift at full size; requested duration and uploaded duration differ. | **Check:** Reproduction needs the character sheet; check identity and title spelling at full resolution. |
+
+See [all 15 cases with settings, sources and English/Chinese field notes](./docs/x-community-showcase.md).
+
+Source records were checked September 20 and 22, 2026 through a public reader and sampled video frames, without regeneration or audio review. External works are outside the repository MIT license. [Evidence and sources](./docs/x-community-showcase.md#reading-the-evidence)
+
+## Official MiniMax examples
+
+The following previews are remotely referenced from and linked back to the official MiniMax-H3 repository. They are not stored in this repository and are not presented as outputs of this prompt library.
+
+| Product advertising | 3D animation | Music video |
+|---|---|---|
+| [![Official MiniMax H3 minimalist product advertisement](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/minimalist-product-ad-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/minimalist-product-ad-generator) | [![Official MiniMax H3 3D animation short](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/3d-animation-short-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/3d-animation-short-generator) | [![Official MiniMax H3 music-video subtitle example](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/music-video-subtitle-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/mv-subtitle-skill-confirmed) |
+
+Browse the [complete attributed official example gallery](./docs/official-h3-examples.md) for reproducible T2VA, FL2VA and Ref2VA request scripts, 768p MP4 outputs, and 2K workflow comparisons.
+
+<a id="reference-images"></a>
+
+## Choose a reference image
+
+These original generated images are first-frame and mood references for recipes in this repository—not model benchmarks or guaranteed H3 outputs.
+
+| Brand and product | UGC and lifestyle | Travel and hospitality |
+|---|---|---|
+| ![Fictional bottled tea in a mountaintop observatory before sunrise](./assets/gallery/midnight-observatory-tea.webp) | ![Adult creator testing an original foldable desk lamp in a home office](./assets/gallery/honest-desk-lamp-demo.webp) | ![Rain-washed fictional canal neighborhood with bicycle and stone bridge](./assets/gallery/rain-washed-canal-morning.webp) |
+| [BRD-001 prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 prompt](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [TRV-001 prompt](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
+
+| Animation and character | Action and sports | H3 reference-image briefs |
+|---|---|---|
+| ![Original mustard clay repair robot in a miniature wooden workshop](./assets/gallery/clay-repair-robot.webp) | ![Fictional adult climber on an indoor yellow route with safety equipment](./assets/gallery/indoor-climbing-final-hold.webp) | Eleven inherited gallery references have [reusable image briefs](./assets/minimax-h3-reference-image-prompts.md); the new [VideoWeb cover has its own record](./assets/videoweb-cover-prompt.md). |
+| [ANI-002 prompt](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | [ACT-001 prompt](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) | [Asset production notes](./assets/README.md) |
+
+| Camera-transfer product | Character dialogue | Multi-reference one-take |
+|---|---|---|
+| ![Original fictional graphite-and-cork portable speaker](./assets/gallery/radial-cork-speaker.webp) | ![Original indigo and saffron paper birds inside a storm-lit greenhouse](./assets/gallery/paper-birds-storm-shelter.webp) | ![Original handcrafted museum rail across three tabletop biomes](./assets/gallery/three-biome-museum-rail.webp) |
+| [MRF-002 prompt](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | [CHR-001 prompt](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) | [MRF-001 prompt](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) |
+
+| Dynamic poster | Practical surrealism | Live creator demo |
+|---|---|---|
+| ![Original paper-collage night-market poster with blank typography panel](./assets/gallery/dynamic-night-market-poster.webp) | ![Original archive map rising into a handcrafted miniature landscape](./assets/gallery/topographic-map-archive.webp) | ![Original unbranded modular lunch-jar kit with five components](./assets/gallery/modular-lunch-jar-kit.webp) |
+| [MOG-001 prompt](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | [SRL-001 prompt](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) | [VER-001 prompt](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
+
+<a id="full-catalog"></a>
+
+## Browse all 24 categories
 
 | Collection | Recipes | Highlights |
 |---|---:|---|
@@ -59,104 +170,6 @@ The full recipe library is in English, with [copy-ready samples in eight other l
 | [Surreal physics and optical illusions](./prompts/23-surreal-physics-optical-illusions.md) | 4 | Rising map, predictive shadow, future puddle, material sphere |
 | [Vertical series and live creator](./prompts/24-vertical-series-live-creator.md) | 4 | Live demo, neighbor drama, repair series, creator answer |
 
-</details>
-
-<a id="try-a-shot"></a>
-
-## Try your first 5-second shot
-
-| What you need | VideoWeb entry |
-|---|---|
-| Try one shot without signing up | [Free MiniMax H3](https://videoweb.ai/free-minimax-h3/): the page lists 480p, 5 seconds, text or an optional start/end image pair |
-| Regular production with available settings | [MiniMax H3 model page](https://videoweb.ai/model/minimax-h3/): confirm settings, credits and access before generating |
-
-Open the free tool, leave the image fields empty, paste this example and choose an available aspect ratio. Review the bottle shape and camera motion, then change one issue at a time.
-
-```text
-A five-second single continuous shot of a fictional unbranded blue glass bottle on a dark studio plinth. 0–1 seconds: hold a medium close-up, bottle fully visible. 1–4 seconds: the camera slowly moves closer while a soft side light reveals the glass texture; the bottle remains still. 4–5 seconds: settle into a clean product frame. Keep bottle shape, cap, color and background unchanged. No cuts, rotation, added objects, lettering or logos. Sound intent: quiet studio ambience, no speech or music.
-```
-
-This untested starter is separate from the 84 upstream recipes. Page information was checked September 22, 2026; settings and queues may change. Image guidance needs a start/end pair; video or audio references require explicit tool support. See the [walkthrough and troubleshooting guide](./docs/videoweb-quick-start.md).
-
-<a id="watch-examples"></a>
-
-## Watch the video, read the author prompt
-
-These are external creator examples, not test results of this cookbook or evidence of generation on VideoWeb. Click a preview for the X video; MP4, author prompt and field notes are linked separately.
-
-| Headphone commercial: macro to exploded view | Game interface: a readable turn-based sequence | Motion poster: assemble a layout without losing it |
-|---|---|---|
-| [![Headphone commercial: macro to exploded view — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![Game interface: a readable turn-based sequence — @AllaAisling](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![Motion poster: assemble a layout without losing it — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
-| [@LudovicCreator](https://x.com/LudovicCreator) · [MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [Author prompt](https://x.com/LudovicCreator/status/2082783319075291312) · [Notes](./docs/x-community-showcase.md#xh3-002) | [@AllaAisling](https://x.com/AllaAisling) · [MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [Author prompt](https://x.com/AllaAisling/status/2082909383424446745) · [Notes](./docs/x-community-showcase.md#xh3-011) | [@LudovicCreator](https://x.com/LudovicCreator) · [MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [Author prompt](https://x.com/LudovicCreator/status/2083628879407632890) · [Notes](./docs/x-community-showcase.md#xh3-014) |
-
-**[Open all 15 cases with English and Chinese field notes](./docs/x-community-showcase.md)**
-
-<details>
-<summary>Show the 15-case quick index</summary>
-
-| Case and notes | Video | Author prompt |
-|---|---|---|
-| [Kinetic typography: a quote becomes a story](./docs/x-community-showcase.md#xh3-001) · [@umesh_ai](https://x.com/umesh_ai) | [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2083909535593644291) |
-| [Headphone commercial: macro to exploded view](./docs/x-community-showcase.md#xh3-002) · [@LudovicCreator](https://x.com/LudovicCreator) | [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2082783319075291312) |
-| [Character entrance: detail to full silhouette](./docs/x-community-showcase.md#xh3-003) · [@aimikoda](https://x.com/aimikoda) | [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) | [X](https://x.com/aimikoda/status/2086412223061135392) |
-| [Blue-studio fashion: three references in one scene](./docs/x-community-showcase.md#xh3-004) · [@egeberkina](https://x.com/egeberkina) | [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) | [X](https://x.com/egeberkina/status/2083301476206588086) |
-| [Bamboo-forest mystery: tension through close-ups](./docs/x-community-showcase.md#xh3-005) · [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) | [X](https://x.com/sipteaandcoffee/status/2083132770650571041) |
-| [Ordinary footage, impossible event: a useful mismatch](./docs/x-community-showcase.md#xh3-006) · [@cocktailpeanut](https://x.com/cocktailpeanut) | [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) | [X](https://x.com/cocktailpeanut/status/2086879654116495564) |
-| [Beat-driven western title sequence](./docs/x-community-showcase.md#xh3-007) · [@doctorwasif](https://x.com/doctorwasif) | [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) | [X](https://x.com/doctorwasif/status/2085599659326935100) |
-| [Skincare campaign: night-to-morning continuity](./docs/x-community-showcase.md#xh3-008) · [@AIwithJessica](https://x.com/AIwithJessica) | [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) | [X](https://x.com/AIwithJessica/status/2083013658230317082) |
-| [Suspense short: dialogue, reaction and sound reversal](./docs/x-community-showcase.md#xh3-009) · [@drjoetw](https://x.com/drjoetw) | [▶ MP4 — jump scare / flashing](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [X](https://x.com/drjoetw/status/2082669221222207488) |
-| [Swimming sequence: distinguish four motion patterns](./docs/x-community-showcase.md#xh3-010) · [@johnAGI168](https://x.com/johnAGI168) | [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) | [X](https://x.com/johnAGI168/status/2082798969499832514) |
-| [Game interface: a readable turn-based sequence](./docs/x-community-showcase.md#xh3-011) · [@AllaAisling](https://x.com/AllaAisling) | [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | [X](https://x.com/AllaAisling/status/2082909383424446745) |
-| [Street-food vlog: place, preparation and reaction](./docs/x-community-showcase.md#xh3-012) · [@nawalsehar](https://x.com/nawalsehar) | [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | [X](https://x.com/nawalsehar/status/2085233880353915217) |
-| [Cliffside chase: one continuous camera path](./docs/x-community-showcase.md#xh3-013) · [@umesh_ai](https://x.com/umesh_ai) | [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [X](https://x.com/umesh_ai/status/2082499539735588916) |
-| [Motion poster: assemble a layout without losing it](./docs/x-community-showcase.md#xh3-014) · [@LudovicCreator](https://x.com/LudovicCreator) | [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | [X](https://x.com/LudovicCreator/status/2083628879407632890) |
-| [Japanese animation teaser: identity and expression control](./docs/x-community-showcase.md#xh3-015) · [@haruuraeadss](https://x.com/haruuraeadss) | [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) | [X](https://x.com/haruuraeadss/status/2082945363431080299) |
-
-</details>
-
-Source records were checked September 20 and 22, 2026 through a public reader and sampled video frames, without regeneration or audio review. External works are outside the repository MIT license. [Evidence and sources](./docs/x-community-showcase.md#reading-the-evidence)
-
-## Official MiniMax examples
-
-The following previews are remotely referenced from and linked back to the official MiniMax-H3 repository. They are not stored in this repository and are not presented as outputs of this prompt library.
-
-| Product advertising | 3D animation | Music video |
-|---|---|---|
-| [![Official MiniMax H3 minimalist product advertisement](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/minimalist-product-ad-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/minimalist-product-ad-generator) | [![Official MiniMax H3 3D animation short](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/3d-animation-short-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/3d-animation-short-generator) | [![Official MiniMax H3 music-video subtitle example](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/music-video-subtitle-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/mv-subtitle-skill-confirmed) |
-
-Browse the [complete attributed official example gallery](./docs/official-h3-examples.md) for reproducible T2VA, FL2VA and Ref2VA request scripts, 768p MP4 outputs, and 2K workflow comparisons.
-
-<a id="reference-images"></a>
-
-## Choose a reference image
-
-These original generated images are first-frame and mood references for recipes in this repository—not model benchmarks or guaranteed H3 outputs.
-
-| Brand and product | UGC and lifestyle | Travel and hospitality |
-|---|---|---|
-| ![Fictional bottled tea in a mountaintop observatory before sunrise](./assets/gallery/midnight-observatory-tea.webp) | ![Adult creator testing an original foldable desk lamp in a home office](./assets/gallery/honest-desk-lamp-demo.webp) | ![Rain-washed fictional canal neighborhood with bicycle and stone bridge](./assets/gallery/rain-washed-canal-morning.webp) |
-| [BRD-001 prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 prompt](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [TRV-001 prompt](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
-
-<details>
-<summary>Show the other 8 reference images and matching recipes</summary>
-
-| Animation and character | Action and sports | H3 reference-image briefs |
-|---|---|---|
-| ![Original mustard clay repair robot in a miniature wooden workshop](./assets/gallery/clay-repair-robot.webp) | ![Fictional adult climber on an indoor yellow route with safety equipment](./assets/gallery/indoor-climbing-final-hold.webp) | Eleven inherited gallery references have [reusable image briefs](./assets/minimax-h3-reference-image-prompts.md); the new [VideoWeb cover has its own record](./assets/videoweb-cover-prompt.md). |
-| [ANI-002 prompt](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | [ACT-001 prompt](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) | [Asset production notes](./assets/README.md) |
-
-| Camera-transfer product | Character dialogue | Multi-reference one-take |
-|---|---|---|
-| ![Original fictional graphite-and-cork portable speaker](./assets/gallery/radial-cork-speaker.webp) | ![Original indigo and saffron paper birds inside a storm-lit greenhouse](./assets/gallery/paper-birds-storm-shelter.webp) | ![Original handcrafted museum rail across three tabletop biomes](./assets/gallery/three-biome-museum-rail.webp) |
-| [MRF-002 prompt](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | [CHR-001 prompt](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) | [MRF-001 prompt](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) |
-
-| Dynamic poster | Practical surrealism | Live creator demo |
-|---|---|---|
-| ![Original paper-collage night-market poster with blank typography panel](./assets/gallery/dynamic-night-market-poster.webp) | ![Original archive map rising into a handcrafted miniature landscape](./assets/gallery/topographic-map-archive.webp) | ![Original unbranded modular lunch-jar kit with five components](./assets/gallery/modular-lunch-jar-kit.webp) |
-| [MOG-001 prompt](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | [SRL-001 prompt](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) | [VER-001 prompt](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
-
-</details>
-
 ## Guides and local deployment
 
 | Your next task | Read |
@@ -168,8 +181,7 @@ These original generated images are first-frame and mood references for recipes 
 | Prepare reference images | [Image briefs](./assets/minimax-h3-reference-image-prompts.md) · [Asset records](./assets/README.md) |
 | Compare other entry points | [Other H3 tools](./docs/other-h3-tools.md) |
 
-<details>
-<summary>Prompt structure and full review checklist</summary>
+## How to write and review an H3 prompt
 
 MiniMax's official H3 materials highlight three areas: native multimodal understanding and generation across text, images, audio, and video; precise multimodal editing and control over people, objects, scenes, sound, and rhythm; and commercial content generation for film, advertising, e-commerce, digital experiences, games, and animation. See the [official MiniMax H3 capability examples](https://platform.minimaxi.com/docs/guides/video-prompt).
 
@@ -201,10 +213,7 @@ The repository does not invent request parameters. See the [H3 overview and offi
 
 For multilingual work, start from the English canonical recipe and localize the complete specification. The [multilingual guide](./docs/multilingual-prompting.md) includes ready-to-copy examples in Simplified Chinese, Japanese, Korean, Spanish, French, German, Portuguese, and Arabic.
 
-</details>
-
-<details>
-<summary>Official resources and local deployment scope</summary>
+## Official resources and local deployment scope
 
 - **Official H3 repository:** [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 - **H3 model card and open weights:** [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
@@ -214,8 +223,6 @@ For multilingual work, start from the English canonical recipe and localize the 
 - **Hosted video workflow:** [MiniMax video generation guide](https://platform.minimaxi.com/docs/guides/video-generation)
 
 The current release provides H3-Base FL2VA and Ref2VA weights for local 768p audiovisual generation. H3-Context-IR and H3-Regenerate-2K remain hosted components, so the full 2K workflow combines local generation with official APIs. Check the current Community License, supported tasks, runtime requirements, and release files before local or commercial use.
-
-</details>
 
 ## Originality, rights, and safety
 

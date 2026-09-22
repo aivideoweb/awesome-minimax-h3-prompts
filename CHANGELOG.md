@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-22 — Restore the full homepage showcase
+
+- Restored expanded categories, all eleven reference images, prompt guidance and official resources on the English and Chinese homepages.
+- Displayed all fifteen attributed X video previews across eight README pages, with practical lessons and concise review notes on the English and Chinese pages.
+- Localized community case titles and analysis links across the other six README languages.
+- Kept task navigation and the copyable starter while restoring the full-size cover.
+- Added checks that homepage showcases remain expanded and retain every community preview.
+
 ## 2026-09-22 — Homepage navigation
 
 - Added goal-based recipe shortcuts, a copyable five-second starter and visible language/resource navigation.

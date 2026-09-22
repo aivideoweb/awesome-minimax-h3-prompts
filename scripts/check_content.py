@@ -39,6 +39,7 @@ for p in ROOT.glob('README*.md'):
     text=p.read_text()
     for url in ('https://videoweb.ai/model/minimax-h3/','https://videoweb.ai/free-minimax-h3/','https://videoweb.ai/affiliate-program/'):
         check(url in text,f'{p.name}: missing {url}')
+    check('<details' not in text, f'{p.name}: homepage content must stay expanded')
     check('github.com/flaqai/' not in text,f'{p.name}: stale contribution link')
     check('https://flaq.ai/affiliate' not in text,f'{p.name}: wrong affiliate program')
 check(len(list((ROOT/'assets').rglob('*.webp')))==12,'Expected 12 visual assets')
@@ -58,6 +59,7 @@ for e in entries:
         check(e[key] in showcase, f"{e['id']}: showcase missing {key}")
     for p in ROOT.glob('README*.md'):
         check('#'+e['id'].lower() in p.read_text(), f"{p.name}: missing {e['id']}")
+        check(e['thumbnail_url'] in p.read_text(), f"{p.name}: missing visible preview for {e['id']}")
 # Warnings must remain visible before a reader opens the flashing clip.
 notice_words = {'README.md': 'jump scare / flashing', 'README_zh.md': '惊吓与闪屏',
                 'README_ja.md': '恐怖演出・点滅', 'README_ko.md': '공포·깜박임',
