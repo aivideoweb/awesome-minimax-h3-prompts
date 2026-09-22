@@ -38,6 +38,8 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 
 15 Beispiele externer Kreativer. Vorschaubilder öffnen das X-Video; weitere Links führen zum Autorenprompt und zu englischen und chinesischen Erläuterungen. Es sind keine VideoWeb-Ergebnisse oder Tests dieser Bibliothek.
 
+Diese Links führen zu eigenständigen Rezepten und Vorlagen dieser Sammlung, nicht zu den Prompts der gezeigten Videos. Prüfe die benötigten Referenzen und die unterstützten Funktionen deines Werkzeugs.
+
 **Nach Einsatzzweck auswählen:** [Produkt- und Modewerbung](#examples-products) · [Figuren und Schauspiel](#examples-characters) · [Bewegung und Kamera](#examples-motion) · [Schrift und Benutzeroberflächen](#examples-graphics) · [Schnitt und Erzählung](#examples-storytelling)
 
 <a id="examples-products"></a>
@@ -49,6 +51,9 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 | [![Kopfhörerwerbung: Vom Detail zur Explosionsansicht](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![Modefilm im blauen Studio mit drei Referenzen](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![Hautpflegewerbung: Kontinuität von Nacht bis Morgen](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1) |
 | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [Autoren-Prompt](https://x.com/LudovicCreator/status/2082783319075291312) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-002) | [@egeberkina](https://x.com/egeberkina) · [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [Autoren-Prompt](https://x.com/egeberkina/status/2083301476206588086) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-004) | [@AIwithJessica](https://x.com/AIwithJessica) · [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [Autoren-Prompt](https://x.com/AIwithJessica/status/2083013658230317082) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-008) |
 
+**Eine ähnliche Technik üben (Englisch):** [Produktmaterialien](./prompts/02-product-ecommerce.md#prd-002-ceramic-diffuser-material-film) · [Kameraarbeit für Mode](./prompts/06-fashion-beauty.md#fsh-001-wind-study-eyewear-editorial)
+
+
 <a id="examples-characters"></a>
 
 ### Figuren und Schauspiel
@@ -57,6 +62,9 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 |---|---|---|
 | [![Figurenauftritt: Vom Detail zur Silhouette](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) | [![Bambuswald-Krimi: Spannung durch Nahaufnahmen](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) | [![Japanischer Anime-Trailer: Identität und Ausdruck](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1) |
 | [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [Autoren-Prompt](https://x.com/aimikoda/status/2086412223061135392) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-003) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [Autoren-Prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-005) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [Autoren-Prompt](https://x.com/haruuraeadss/status/2082945363431080299) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-015) |
+
+**Eine ähnliche Technik üben (Englisch):** [Subtile Mimik](./prompts/21-character-dialogue-performance.md#chr-002-the-first-new-root) · [Dialog und Reaktionen](./prompts/21-character-dialogue-performance.md#chr-003-bilingual-radio-repair-handoff)
+
 
 <a id="examples-motion"></a>
 
@@ -67,6 +75,9 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 | [![Alltag und unmögliches Ereignis: eine Abweichung](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) | [![Schwimmen: Vier Bewegungsmuster unterscheiden](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1) | [![Verfolgung an Klippen: durchgehende Kamerafahrt](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1) |
 | [@cocktailpeanut](https://x.com/cocktailpeanut) · [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [Autoren-Prompt](https://x.com/cocktailpeanut/status/2086879654116495564) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-006) | [@johnAGI168](https://x.com/johnAGI168) · [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [Autoren-Prompt](https://x.com/johnAGI168/status/2082798969499832514) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-010) | [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [Autoren-Prompt](https://x.com/umesh_ai/status/2082499539735588916) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-013) |
 
+**Eine ähnliche Technik üben (Englisch):** [Durchgehende Kamerafahrt](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) · [Vorlage für eine einzelne Einstellung](./templates/README.md#t01-text-to-video-single-readable-shot)
+
+
 <a id="examples-graphics"></a>
 
 ### Schrift und Benutzeroberflächen
@@ -76,6 +87,9 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 | [![Animierte Schrift: Ein Zitat wird zur Geschichte](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![Spieloberfläche: Spielzüge verständlich zeigen](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![Animiertes Plakat: Aufbau mit stabilem Layout](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
 | [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [Autoren-Prompt](https://x.com/umesh_ai/status/2083909535593644291) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-001) | [@AllaAisling](https://x.com/AllaAisling) · [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [Autoren-Prompt](https://x.com/AllaAisling/status/2082909383424446745) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-011) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [Autoren-Prompt](https://x.com/LudovicCreator/status/2083628879407632890) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-014) |
 
+**Eine ähnliche Technik üben (Englisch):** [Plakataufbau](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) · [Layout von Funktionskarten](./prompts/22-motion-graphics-dynamic-posters.md#mog-002-modular-product-feature-cards)
+
+
 <a id="examples-storytelling"></a>
 
 ### Schnitt und Erzählung
@@ -84,6 +98,9 @@ Diese Ausgabe übernimmt 84 Prompts und 11 Referenzbilder von Flaq AI und ergän
 |---|---|---|
 | [![Western-Vorspann im Takt der Musik](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | **Schreckmoment und Blitze**<br>[![Spannung: Dialog, Reaktion und Klangwechsel — Schreckmoment und Blitze](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1) | [![Streetfood: Ort, Zubereitung und Reaktion](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
 | [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [Autoren-Prompt](https://x.com/doctorwasif/status/2085599659326935100) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-007) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — Schreckmoment und Blitze](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [Autoren-Prompt](https://x.com/drjoetw/status/2082669221222207488) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-009) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [Autoren-Prompt](https://x.com/nawalsehar/status/2085233880353915217) · [Analyse (Englisch/Chinesisch)](./docs/x-community-showcase.md#xh3-012) |
+
+**Eine ähnliche Technik üben (Englisch):** [Planung mehrerer Einstellungen](./templates/README.md#t06-multi-shot-sequence-plan) · [Rhythmusgesteuerter Schnitt](./templates/README.md#t10-audio--or-rhythm-guided-sequence)
+
 
 [Einstellungen, Quellen und Hinweise zu allen 15 Beispielen (Englisch/Chinesisch)](./docs/x-community-showcase.md)
 

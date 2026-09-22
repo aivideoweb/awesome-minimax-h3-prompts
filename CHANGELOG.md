@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-22 — Practice links for community examples
+
+- Added related library recipes and templates after each of the five community example groups across eight languages.
+- Distinguished practice suggestions from the creators’ original video prompts and noted input/tool requirements.
+
 ## 2026-09-22 — Case navigation and contributions
 
 - Grouped all fifteen visible community cases by five practical uses, with in-page navigation in eight languages.

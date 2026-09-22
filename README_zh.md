@@ -66,6 +66,8 @@
 
 以下是外部作者作品，不是本库提示词的测试结果，也不是 VideoWeb 生成证明。点击预览打开 X 视频；每条另有 MP4、原始提示词与解析入口。
 
+以下链接是本库独立配方与模板，不是这些视频使用的原提示词。练习前请确认所需参考素材及工具是否支持。
+
 **按用途看案例：** [产品与时尚广告](#examples-products) · [人物与表演](#examples-characters) · [动作与运镜](#examples-motion) · [文字与界面](#examples-graphics) · [剪辑与叙事](#examples-storytelling)
 
 <a id="examples-products"></a>
@@ -79,6 +81,9 @@
 | **学什么：** 四段时间线连接材质细节、产品旋转、零件分离和重新组装；重点学习几何形状的连续性约束。 | **学什么：** 提示词为每张参考图指定不同主体，再结合编舞与图形叠加；仅有文字不足以完整复现，还需要身份素材。 | **学什么：** 观察同一人物和产品如何跨越光线、景别与地点变化；对照开头与结尾的产品外观。 |
 | **注意：** 生成的内部结构不代表真实产品构造。 | **注意：** 复现需要获得授权的人物参考素材。 | **注意：** 灯光是广告创意表现，不是护肤功效证明。 |
 
+**练习类似效果（英文）:** [产品材质展示](./prompts/02-product-ecommerce.md#prd-002-ceramic-diffuser-material-film) · [时尚片运镜](./prompts/06-fashion-beauty.md#fsh-001-wind-study-eyewear-editorial)
+
+
 <a id="examples-characters"></a>
 
 ### 人物与表演
@@ -89,6 +94,9 @@
 | [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [作者提示词](https://x.com/aimikoda/status/2086412223061135392) · [解析](./docs/x-community-showcase.md#xh3-003) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [作者提示词](https://x.com/sipteaandcoffee/status/2083132770650571041) · [解析](./docs/x-community-showcase.md#xh3-005) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [作者提示词](https://x.com/haruuraeadss/status/2082945363431080299) · [解析](./docs/x-community-showcase.md#xh3-015) |
 | **学什么：** 用一个身份参考贯穿局部、身体、表情和全身轮廓的逐步揭示；复现时需要准备角色参考图。 | **学什么：** 以色彩、景深、布光和正反打组织戏剧张力；原文限制时代环境，但没有提供带时间点的对白脚本。 | **学什么：** 把人物外观固定项与允许变化的表情、动作分开；镜头变化对应发现线索的时刻。 |
 | **注意：** 发布版附带角色设定图，不能把它的尺寸当成模型原生比例。 | **注意：** 原文给出场景方向，没有带时间点的对白脚本。 | **注意：** 复现需要角色设定图；全分辨率检查身份一致性与标题拼写。 |
+
+**练习类似效果（英文）:** [细微表情](./prompts/21-character-dialogue-performance.md#chr-002-the-first-new-root) · [对白与反应](./prompts/21-character-dialogue-performance.md#chr-003-bilingual-radio-repair-handoff)
+
 
 <a id="examples-motion"></a>
 
@@ -101,6 +109,9 @@
 | **学什么：** 通过日常活动铺垫再引出不可能事件，适合研究伏笔、突变，以及模型是否按指定物理事件执行。 | **学什么：** 重点研究动作能否看清：检查泳姿切换，以及分配的时间是否足够辨认动作。 | **学什么：** 观察障碍如何推动重新构图，同时让运动主体持续吸引视线；结尾从追逐转为开阔空间展示。 |
 | **注意：** 抽帧显示街道与云墙，并非原文要求的后院与下坠固体天空。 | **注意：** 抽帧不能证明泳姿正确，不宜当作教学。 | **注意：** 完整播放检查障碍穿越与运镜连续性。 |
 
+**练习类似效果（英文）:** [连续镜头路线](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) · [单镜头模板](./templates/README.md#t01-text-to-video-single-readable-shot)
+
+
 <a id="examples-graphics"></a>
 
 ### 文字与界面
@@ -112,6 +123,9 @@
 | **学什么：** 为各段文字分配时间、字号变化与转场，最后留出静止阅读时间。 | **学什么：** 沿状态变化阅读：发牌、选择、执行、资源更新、对方回合；检查镜头变化时界面是否固定。 | **学什么：** 把海报拆成按顺序进入的图层，再留出阅读停顿；保持视觉层级，不让所有区域同时运动。 |
 | **注意：** 检查逐字拼写与结尾阅读停顿。 | **注意：** 部分画面将卡牌与场景分栏，需核对是否符合完整游戏界面的目标。 | **注意：** 全尺寸检查小字与版式漂移；要求时长与上传时长不同。 |
 
+**练习类似效果（英文）:** [海报逐层组装](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) · [功能卡片排版](./prompts/22-motion-graphics-dynamic-posters.md#mog-002-modular-product-feature-cards)
+
+
 <a id="examples-storytelling"></a>
 
 ### 剪辑与叙事
@@ -122,6 +136,9 @@
 | [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [作者提示词](https://x.com/doctorwasif/status/2085599659326935100) · [解析](./docs/x-community-showcase.md#xh3-007) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — 含突袭惊吓与闪屏](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [作者提示词](https://x.com/drjoetw/status/2082669221222207488) · [解析](./docs/x-community-showcase.md#xh3-009) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [作者提示词](https://x.com/nawalsehar/status/2085233880353915217) · [解析](./docs/x-community-showcase.md#xh3-012) |
 | **学什么：** 学习静止姿态与短动作交替，并让标题落在音乐重拍上。 | **学什么：** 先制造疑问，再跟随指向动作揭示目标，用反应镜头收束；声音变化承担气氛反转。 | **学什么：** 对比环境全景、制作细节和试吃反应，理解三者不同的叙事作用。 |
 | **注意：** 抽帧标题字形异常；需修字，并完整播放核对节拍。 | **注意：** 含惊吓与闪屏。提示词要求 9:16，上传视频实际为 16:9。 | **注意：** 生成地点与人物反应不能充当纪实证据或真实评价。 |
+
+**练习类似效果（英文）:** [多镜头规划](./templates/README.md#t06-multi-shot-sequence-plan) · [节奏驱动剪辑](./templates/README.md#t10-audio--or-rhythm-guided-sequence)
+
 
 完整来源、设定与中英解析见[15 条案例详情](./docs/x-community-showcase.md)。
 

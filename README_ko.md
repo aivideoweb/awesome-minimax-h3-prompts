@@ -38,6 +38,8 @@ Flaq AI 원본에서 프롬프트 84개와 참고 이미지 11개를 가져왔�
 
 외부 제작자의 사례 15개입니다. 미리보기를 누르면 X 영상이 열립니다. 전체 작성자 프롬프트와 영어·중국어 해설을 각각 확인할 수 있습니다. VideoWeb 또는 이 라이브러리의 생성 결과가 아닙니다.
 
+아래는 이 라이브러리의 독립적인 프롬프트와 템플릿이며, 소개된 영상에 사용된 원본 프롬프트가 아닙니다. 필요한 참고 자료와 도구의 지원 기능을 먼저 확인하세요.
+
 **용도별 사례 찾기：** [제품·패션 광고](#examples-products) · [인물과 연기](#examples-characters) · [동작과 카메라 이동](#examples-motion) · [문자와 인터페이스](#examples-graphics) · [편집과 이야기](#examples-storytelling)
 
 <a id="examples-products"></a>
@@ -49,6 +51,9 @@ Flaq AI 원본에서 프롬프트 84개와 참고 이미지 11개를 가져왔�
 | [![헤드폰 광고: 질감에서 분해 장면까지](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![파란 스튜디오의 패션 영상](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![스킨케어 광고: 밤부터 아침까지의 연속성](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1) |
 | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [작성자 프롬프트](https://x.com/LudovicCreator/status/2082783319075291312) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-002) | [@egeberkina](https://x.com/egeberkina) · [▶ MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [작성자 프롬프트](https://x.com/egeberkina/status/2083301476206588086) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-004) | [@AIwithJessica](https://x.com/AIwithJessica) · [▶ MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [작성자 프롬프트](https://x.com/AIwithJessica/status/2083013658230317082) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-008) |
 
+**비슷한 기법 연습하기（영어）:** [제품 질감](./prompts/02-product-ecommerce.md#prd-002-ceramic-diffuser-material-film) · [패션 영상 카메라 이동](./prompts/06-fashion-beauty.md#fsh-001-wind-study-eyewear-editorial)
+
+
 <a id="examples-characters"></a>
 
 ### 인물과 연기
@@ -57,6 +62,9 @@ Flaq AI 원본에서 프롬프트 84개와 참고 이미지 11개를 가져왔�
 |---|---|---|
 | [![캐릭터 등장: 세부에서 전신으로](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) | [![대나무 숲 미스터리: 근접 장면의 긴장감](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) | [![일본어 애니메이션 예고: 외형과 표정 제어](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1) |
 | [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [작성자 프롬프트](https://x.com/aimikoda/status/2086412223061135392) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-003) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [작성자 프롬프트](https://x.com/sipteaandcoffee/status/2083132770650571041) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-005) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [작성자 프롬프트](https://x.com/haruuraeadss/status/2082945363431080299) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-015) |
+
+**비슷한 기법 연습하기（영어）:** [미세한 표정](./prompts/21-character-dialogue-performance.md#chr-002-the-first-new-root) · [대사와 반응](./prompts/21-character-dialogue-performance.md#chr-003-bilingual-radio-repair-handoff)
+
 
 <a id="examples-motion"></a>
 
@@ -67,6 +75,9 @@ Flaq AI 원본에서 프롬프트 84개와 참고 이미지 11개를 가져왔�
 | [![일상 영상과 불가능한 사건의 불일치](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) | [![수영: 네 가지 동작 구분](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1) | [![절벽 추격: 끊기지 않는 카메라 이동](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1) |
 | [@cocktailpeanut](https://x.com/cocktailpeanut) · [▶ MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [작성자 프롬프트](https://x.com/cocktailpeanut/status/2086879654116495564) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-006) | [@johnAGI168](https://x.com/johnAGI168) · [▶ MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [작성자 프롬프트](https://x.com/johnAGI168/status/2082798969499832514) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-010) | [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [작성자 프롬프트](https://x.com/umesh_ai/status/2082499539735588916) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-013) |
 
+**비슷한 기법 연습하기（영어）:** [연속 카메라 경로](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) · [단일 장면 템플릿](./templates/README.md#t01-text-to-video-single-readable-shot)
+
+
 <a id="examples-graphics"></a>
 
 ### 문자와 인터페이스
@@ -76,6 +87,9 @@ Flaq AI 원본에서 프롬프트 84개와 참고 이미지 11개를 가져왔�
 | [![움직이는 글자로 명언을 이야기로](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![게임 화면: 턴 진행을 명확하게](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) | [![움직이는 포스터: 구도를 유지하며 조립](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
 | [@umesh_ai](https://x.com/umesh_ai) · [▶ MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [작성자 프롬프트](https://x.com/umesh_ai/status/2083909535593644291) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-001) | [@AllaAisling](https://x.com/AllaAisling) · [▶ MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [작성자 프롬프트](https://x.com/AllaAisling/status/2082909383424446745) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-011) | [@LudovicCreator](https://x.com/LudovicCreator) · [▶ MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [작성자 프롬프트](https://x.com/LudovicCreator/status/2083628879407632890) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-014) |
 
+**비슷한 기법 연습하기（영어）:** [포스터 조립](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) · [기능 카드 배치](./prompts/22-motion-graphics-dynamic-posters.md#mog-002-modular-product-feature-cards)
+
+
 <a id="examples-storytelling"></a>
 
 ### 편집과 이야기
@@ -84,6 +98,9 @@ Flaq AI 원본에서 프롬프트 84개와 참고 이미지 11개를 가져왔�
 |---|---|---|
 | [![박자에 맞춘 서부극 타이틀](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | **갑작스러운 공포·깜박임**<br>[![서스펜스: 대사·반응·소리의 반전 — 갑작스러운 공포·깜박임](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1) | [![길거리 음식: 장소·조리·시식](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
 | [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [작성자 프롬프트](https://x.com/doctorwasif/status/2085599659326935100) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-007) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — 갑작스러운 공포·깜박임](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [작성자 프롬프트](https://x.com/drjoetw/status/2082669221222207488) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-009) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [작성자 프롬프트](https://x.com/nawalsehar/status/2085233880353915217) · [해설（영어·중국어）](./docs/x-community-showcase.md#xh3-012) |
+
+**비슷한 기법 연습하기（영어）:** [여러 장면 구성](./templates/README.md#t06-multi-shot-sequence-plan) · [박자에 맞춘 편집](./templates/README.md#t10-audio--or-rhythm-guided-sequence)
+
 
 [15개 사례의 설정·출처·해설（영어·중국어）](./docs/x-community-showcase.md)
 

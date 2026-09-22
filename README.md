@@ -66,6 +66,8 @@ This untested starter is separate from the 84 upstream recipes. Page information
 
 These are external creator examples, not test results of this cookbook or evidence of generation on VideoWeb. Click a preview for the X video; MP4, author prompt and field notes are linked separately.
 
+These links lead to independent recipes and templates in this library, not the prompts used for the videos showcased here. Check required references and tool support before trying them.
+
 **Browse by use case:** [Product and fashion ads](#examples-products) · [Characters and performance](#examples-characters) · [Motion and camera paths](#examples-motion) · [Typography and interfaces](#examples-graphics) · [Editing and storytelling](#examples-storytelling)
 
 <a id="examples-products"></a>
@@ -79,6 +81,9 @@ These are external creator examples, not test results of this cookbook or eviden
 | **What to learn:** Four timed sections connect material detail, a rotating product, separated components and reassembly. The geometry constraints make this useful for studying product continuity. | **What to learn:** The prompt gives each reference a distinct actor and combines choreography with graphic overlays. Identity assets are required; the text alone is not a complete reproduction package. | **What to learn:** Track one product and person across changes in lighting, shot size and location; compare the final product frame with its earlier appearance. |
 | **Check:** Generated internals are not evidence of real product construction. | **Check:** Reproduction needs rights-cleared identity references. | **Check:** The lighting is a fictional ad treatment, not evidence of skincare efficacy. |
 
+**Practice a similar technique:** [Product materials](./prompts/02-product-ecommerce.md#prd-002-ceramic-diffuser-material-film) · [Fashion camera work](./prompts/06-fashion-beauty.md#fsh-001-wind-study-eyewear-editorial)
+
+
 <a id="examples-characters"></a>
 
 ### Characters and performance
@@ -89,6 +94,9 @@ These are external creator examples, not test results of this cookbook or eviden
 | [@aimikoda](https://x.com/aimikoda) · [▶ MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [Prompt](https://x.com/aimikoda/status/2086412223061135392) · [Notes](./docs/x-community-showcase.md#xh3-003) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) · [▶ MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [Prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) · [Notes](./docs/x-community-showcase.md#xh3-005) | [@haruuraeadss](https://x.com/haruuraeadss) · [▶ MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [Prompt](https://x.com/haruuraeadss/status/2082945363431080299) · [Notes](./docs/x-community-showcase.md#xh3-015) |
 | **What to learn:** A single identity reference anchors a progression from a small detail to body, expression and full silhouette. Reproduction requires a suitable character reference. | **What to learn:** Color, depth, lighting and shot/reverse-shot coverage carry the drama. The prompt constrains the period setting without supplying a timed dialogue script. | **What to learn:** Separate the character lock from permitted expression and gesture changes. The prompt also assigns camera changes to moments of discovery. |
 | **Check:** The published layout includes a character sheet; its dimensions are not a native aspect-ratio setting. | **Check:** The original provides scene direction, not a timed dialogue script. | **Check:** Reproduction needs the character sheet; check identity and title spelling at full resolution. |
+
+**Practice a similar technique:** [Subtle expression](./prompts/21-character-dialogue-performance.md#chr-002-the-first-new-root) · [Dialogue and reactions](./prompts/21-character-dialogue-performance.md#chr-003-bilingual-radio-repair-handoff)
+
 
 <a id="examples-motion"></a>
 
@@ -101,6 +109,9 @@ These are external creator examples, not test results of this cookbook or eviden
 | **What to learn:** The brief delays its impossible event behind ordinary activity. This is useful for studying setup and surprise, alongside whether H3 follows the requested physical event. | **What to learn:** Use this as a motion-clarity study: inspect transitions and whether each action remains recognizable at the allotted speed. | **What to learn:** Study how obstacles motivate reframing while the moving subject supplies a continuous point of attention. The ending shifts from pursuit to a wide reveal. |
 | **Check:** The sampled result shows a street and cloud wall, not the requested backyard and falling solid sky. | **Check:** Sampled frames cannot confirm correct swimming technique. | **Check:** Watch the full clip to check obstacle clearance and camera continuity. |
 
+**Practice a similar technique:** [Continuous camera path](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) · [Single-shot template](./templates/README.md#t01-text-to-video-single-readable-shot)
+
+
 <a id="examples-graphics"></a>
 
 ### Typography and interfaces
@@ -112,6 +123,9 @@ These are external creator examples, not test results of this cookbook or eviden
 | **What to learn:** The brief assigns successive phrases their own timing, visual scale and transition. Finish with a readable hold rather than continuous motion. | **What to learn:** Follow state changes: cards appear, one is selected, an action resolves, resources update, then the opposing turn begins. Check whether overlays stay anchored during camera changes. | **What to learn:** Treat the poster as layered components that enter in a deliberate order, then settle long enough to read. Preserve hierarchy rather than filling every region with movement. |
 | **Check:** Check exact spelling and readable hold time. | **Check:** Some samples split the cards and scene into panels; check this against the intended full game interface. | **Check:** Check small text and layout drift at full size; requested duration and uploaded duration differ. |
 
+**Practice a similar technique:** [Poster assembly](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) · [Feature-card layout](./prompts/22-motion-graphics-dynamic-posters.md#mog-002-modular-product-feature-cards)
+
+
 <a id="examples-storytelling"></a>
 
 ### Editing and storytelling
@@ -122,6 +136,9 @@ These are external creator examples, not test results of this cookbook or eviden
 | [@doctorwasif](https://x.com/doctorwasif) · [▶ MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [Prompt](https://x.com/doctorwasif/status/2085599659326935100) · [Notes](./docs/x-community-showcase.md#xh3-007) | [@drjoetw](https://x.com/drjoetw) · [▶ MP4 — jump scare / flashing](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [Prompt](https://x.com/drjoetw/status/2082669221222207488) · [Notes](./docs/x-community-showcase.md#xh3-009) | [@nawalsehar](https://x.com/nawalsehar) · [▶ MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [Prompt](https://x.com/nawalsehar/status/2085233880353915217) · [Notes](./docs/x-community-showcase.md#xh3-012) |
 | **What to learn:** Study how held poses alternate with short action bursts, with titles reserved for strong musical accents. | **What to learn:** The sequence builds a question, follows a pointing gesture, then answers it through a reaction shot. Audio changes carry the tonal reversal. | **What to learn:** Compare wide location context, preparation detail and the tasting reaction; these serve different storytelling purposes. |
 | **Check:** Sampled title lettering is malformed; repair it and verify beat timing in full playback. | **Check:** Jump scare / flashing. The prompt asks for 9:16; the uploaded video is 16:9. | **Check:** Generated locations and reactions are not documentary evidence or real testimonials. |
+
+**Practice a similar technique:** [Multi-shot planning](./templates/README.md#t06-multi-shot-sequence-plan) · [Rhythm-guided editing](./templates/README.md#t10-audio--or-rhythm-guided-sequence)
+
 
 See [all 15 cases with settings, sources and English/Chinese field notes](./docs/x-community-showcase.md).
 
