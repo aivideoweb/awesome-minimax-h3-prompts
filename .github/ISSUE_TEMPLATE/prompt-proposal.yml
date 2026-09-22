@@ -1,0 +1,88 @@
+name: Prompt proposal
+description: Propose an original prompt recipe or a substantial improvement.
+title: "[Prompt]: "
+labels:
+  - prompt
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing. Do not paste copied prompts, private data, credentials, or unlicensed media.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Brand and advertising (BRD)
+        - Product and e-commerce (PRD)
+        - UGC and lifestyle (UGC)
+        - Travel and hospitality (TRV)
+        - Food and beverage (FNB)
+        - Fashion and beauty (FSH)
+        - Cinematic storytelling (CIN)
+        - Animation and stylized video (ANI)
+        - Action and sports (ACT)
+        - Fantasy, sci-fi and VFX (VFX)
+        - UI, game and digital experience (DIG)
+        - Transitions, comedy and social formats (SOC)
+        - Music, performance and audio-driven video (MUS)
+        - Education, documentary and science (EDU)
+        - Architecture, interiors and real estate (ARC)
+        - Automotive and mobility (MOB)
+        - Nature, animals and pets (NAT)
+        - Industry, business and public service (IND)
+        - Editing, continuation and localization (EDT)
+        - Multi-reference and camera transfer (MRF)
+        - Character, dialogue and performance (CHR)
+        - Motion graphics and dynamic posters (MOG)
+        - Surreal physics and optical illusions (SRL)
+        - Vertical series and live creator (VER)
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Generation mode
+      options:
+        - Text only
+        - Image reference
+        - Video reference
+        - Audio reference
+        - Multimodal combination
+        - Precise edit of existing media
+        - Provider-neutral template
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Delivery goal
+      description: What should the finished video communicate or accomplish?
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Complete prompt
+      description: Include start state, action, end state, camera, timing, continuity, constraints, and avoid list.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Production and test notes
+      description: State whether this is a concept or tested; for tested work include exact model/tool, settings, inputs, date, edits, and known defects.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Originality and rights
+      options:
+        - label: I created this contribution and have the necessary rights and consent for all included material.
+          required: true
+        - label: I have not copied or lightly rewritten a prompt from another repository, social post, course, or paid pack.
+          required: true
+        - label: I have not included credentials, private links, personal data, or unlicensed media.
+          required: true
