@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-22 — Consistent reference gallery width
+
+- Combined the three reference groups into one table on both English and Chinese homepages so every row shares the same image and description column widths.
+
 ## 2026-09-22 — Reference gallery readability
 
 - Replaced the three-column reference grid with one image and its instructions per row, grouped by use on the English and Chinese homepages.

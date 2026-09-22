@@ -160,27 +160,18 @@
 
 点击图片查看原图，再打开对应配方，按说明准备其余素材。图片用于首帧、结束画面或氛围参考，不是生成效果证明，也不一定包含配方需要的全部输入。
 
-### 产品与广告
-
 | 参考图 | 用途与下一步 |
 |---|---|
+| **产品与广告** | |
 | [<img src="./assets/gallery/midnight-observatory-tea.webp" alt="日出前山顶观测站中的虚构瓶装茶饮" width="240">](./assets/gallery/midnight-observatory-tea.webp) | **瓶装茶饮广告**<br><br>产品与地点参考；可选声音参考。<br><br>[打开配方 BRD-001](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) |
 | [<img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="成人创作者在家庭工作室体验原创折叠台灯" width="240">](./assets/gallery/honest-desk-lamp-demo.webp) | **台灯体验短片**<br><br>人物与产品参考；可选室内环境声。<br><br>[打开配方 UGC-001](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) |
 | [<img src="./assets/gallery/radial-cork-speaker.webp" alt="原创虚构石墨灰与软木便携音箱" width="240">](./assets/gallery/radial-cork-speaker.webp) | **便携音箱运镜**<br><br>需另备运镜参考视频、节拍音轨及材质细节图。<br><br>[打开配方 MRF-002](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) |
 | [<img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="包含五个组件的原创无品牌模块化午餐罐" width="240">](./assets/gallery/modular-lunch-jar-kit.webp) | **午餐罐产品演示**<br><br>需产品、出镜者、核实过的功能说明及授权声音。<br><br>[打开配方 VER-001](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
-
-### 人物与动作
-
-| 参考图 | 用途与下一步 |
-|---|---|
+| **人物与动作** | |
 | [<img src="./assets/gallery/clay-repair-robot.webp" alt="微缩木工作台中的原创黄色黏土维修机器人" width="240">](./assets/gallery/clay-repair-robot.webp) | **黏土机器人动画**<br><br>需角色多角度图、工作台场景及动作参考。<br><br>[打开配方 ANI-002](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) |
 | [<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="暴雨温室中的原创靛蓝和藏红纸艺鸟角色" width="240">](./assets/gallery/paper-birds-storm-shelter.webp) | **纸艺角色对白**<br><br>需角色与环境图、两份授权人声参考及风暴环境声。<br><br>[打开配方 CHR-001](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) |
 | [<img src="./assets/gallery/indoor-climbing-final-hold.webp" alt="配备安全装备、正在室内黄色线路攀爬的虚构成年运动员" width="240">](./assets/gallery/indoor-climbing-final-hold.webp) | **室内攀岩动作**<br><br>需运动员、路线图及动作视频；图片不是安全教学。<br><br>[打开配方 ACT-001](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) |
-
-### 场景与动态图形
-
-| 参考图 | 用途与下一步 |
-|---|---|
+| **场景与动态图形** | |
 | [<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="雨后虚构水乡街区、自行车与石桥" width="240">](./assets/gallery/rain-washed-canal-morning.webp) | **雨后虚构水乡**<br><br>单图练习需支持首帧输入的工具；原版 TRV-001 另需三张核实过的地点图。<br><br>[打开单图练习](./docs/fictional-canal-starter.md#简体中文) · [打开配方 TRV-001](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
 | [<img src="./assets/gallery/three-biome-museum-rail.webp" alt="跨越三种桌面生态的原创微缩博物馆轨道" width="240">](./assets/gallery/three-biome-museum-rail.webp) | **微缩场景长镜头**<br><br>需首帧及三处场景细节图；可选机械环境声。<br><br>[打开配方 MRF-001](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) |
 | [<img src="./assets/gallery/dynamic-night-market-poster.webp" alt="带空白文字区域的原创纸艺夜市动态海报" width="240">](./assets/gallery/dynamic-night-market-poster.webp) | **夜市动态海报**<br><br>这张图用作结束画面参考；可选原创音乐。<br><br>[打开配方 MOG-001](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) |
