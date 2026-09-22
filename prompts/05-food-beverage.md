@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for preparation, texture, service, restaurant storyt
 
 ## FNB-001 Dawn Bakery Lamination Sequence
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A craft-focused bakery film showing process rather than generic beauty shots.
 
 **Mode:** Kitchen image + baker identity + dough reference  
@@ -22,6 +24,8 @@ Natural mixed pre-dawn blue window light and warm oven light. Sound intent: roll
 
 ## FNB-002 Clear Broth Noodle Service
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A restaurant hero clip where liquid, noodles, and garnish remain controlled.
 
 **Mode:** Dish image + counter image + optional motion reference  
@@ -39,6 +43,8 @@ Sound intent: broth pour, ceramic contact, quiet kitchen ambience. Avoid extra t
 **Review:** Ingredient count, liquid level, hand continuity, garnish placement, and realistic steam.
 
 ## FNB-003 Sparkling Botanical Tea Macro Ad
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A beverage ad built around bubbles, glass, and an original flavor identity.
 

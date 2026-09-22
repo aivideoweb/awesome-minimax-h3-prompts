@@ -54,9 +54,11 @@ Avoid: beauty-filter skin, showroom perfection, floating lamp, extra joints, inf
 
 ## IMG-004 Travel: Rain-Washed Canal Morning
 
+This fictional image supports the [single-image practice adaptation](../docs/fictional-canal-starter.md). It is only a mood reference for TRV-001 and cannot replace its three verified real-location inputs.
+
 ```text
 Use case: photorealistic-natural
-Asset type: 16:9 first-frame reference for TRV-001
+Asset type: 16:9 first-frame reference for the fictional canal practice adaptation; mood reference only for TRV-001
 Primary request: A respectful, atmospheric morning in a fictional canal neighborhood immediately after rain.
 Scene/backdrop: narrow canal, simple stone bridge, white plaster buildings, charcoal tiled roofs, small wooden shutters, damp paving
 Subject: one local bicycle with two empty woven baskets moving slowly beside the canal; a shopkeeper opening plain shutters in the background

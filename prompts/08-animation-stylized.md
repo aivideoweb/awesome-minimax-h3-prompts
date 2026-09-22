@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for paper craft, clay animation, graphic motion, and
 
 ## ANI-001 Paper-Cut Wetland Food Web
 
+**Status:** Concept — not independently tested
+
 **Use it for:** An educational animation with a clear ecological relationship and tactile craft style.
 
 **Mode:** Species reference sheet + layout sketch + optional narration rhythm  
@@ -22,6 +24,8 @@ No statistics or generated labels; reserve a clean lower strip for human-added c
 
 ## ANI-002 Clay Repair Robot Finds a Button
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A charming stop-motion character short with clear object scale and personality.
 
 **Mode:** Character turntable + workshop image + movement reference  
@@ -39,6 +43,8 @@ Keep visible fingerprints, small pose-to-pose motion, stable scale, and warm pra
 **Review:** Character model, stop-motion cadence, object scale, two-hand interaction, and tactile materials.
 
 ## ANI-003 Ink Fish Becomes a City Tram
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A graphic transition film combining brushwork, transport, and urban rhythm.
 

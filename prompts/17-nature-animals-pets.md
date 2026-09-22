@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for ethical wildlife observation, pet content, plant
 
 ## NAT-001 Urban Fox Dawn Observation
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A documentary-style wildlife moment with restrained camera behavior and no baiting narrative.
 
 **Mode:** Rights-cleared habitat footage + species reference images + ambient audio  \
@@ -21,6 +23,8 @@ Sound intent: early birds, distant bicycle, leaves, no dramatic music or growls.
 **Review:** Species anatomy, gait, ethical distance, habitat continuity, behavior, and absence of sensationalism.
 
 ## NAT-002 Senior Dog Raincoat Fit Check
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A warm pet-care social clip that demonstrates garment fit without making health claims.
 
@@ -40,6 +44,8 @@ Sound intent: fabric fastening, light paw steps, home ambience, no speech. Do no
 
 ## NAT-003 Balcony Tomato Growth Diary
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A compact seasonal growth story with consistent plant structure and honest time compression.
 
 **Mode:** Same-plant weekly images + balcony reference + optional date record  \
@@ -57,6 +63,8 @@ Sound intent: evolving balcony ambience from spring breeze to summer insects, no
 **Review:** Chronology, stem topology, fruit count, environmental continuity, honest time compression, and date accuracy.
 
 ## NAT-004 Tide-Pool Macro Field Note
+
+**Status:** Concept — not independently tested
 
 **Use it for:** An educational macro sequence showing small marine life without handling or relocating it.
 

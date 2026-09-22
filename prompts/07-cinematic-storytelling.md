@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for compact narrative arcs, character performance, r
 
 ## CIN-001 The Unsent Library Letter
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A quiet relationship scene told through objects, eye lines, and one decision.
 
 **Mode:** Two character references + location image + optional room-tone audio  
@@ -22,6 +24,8 @@ Use winter window light, quiet dust, minimal camera drift, natural breathing and
 
 ## CIN-002 Last Train Platform Farewell
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A compact emotional scene with strong screen direction and environmental timing.
 
 **Mode:** Character references + station image + train motion reference  
@@ -39,6 +43,8 @@ Sound intent: rain, electrical hum, door warning, rail movement, no dialogue or 
 **Review:** 180-degree continuity, train/door physics, reflective light, prop persistence, and emotional restraint.
 
 ## CIN-003 Rooftop Weather Signal Mystery
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A mystery teaser driven by practical clues rather than exposition.
 

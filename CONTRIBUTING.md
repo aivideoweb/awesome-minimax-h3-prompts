@@ -25,6 +25,8 @@ Concept recipes are welcome; a generated video is not required. Tested status is
 
 For an external X example, use the separate [community showcase](./docs/x-community-showcase.md) and [provenance policy](./docs/originality-policy.md#attributed-community-showcase). Supply the original post, creator, video, prompt location and verification notes. Use a short quotation with a full-prompt source link; label editorial analysis and missing references. External examples must not be submitted as original recipes or added to their counts.
 
+### Original recipe route
+
 Every prompt recipe must include:
 
 1. A unique ID using the category prefix;
@@ -37,6 +39,10 @@ Every prompt recipe must include:
 8. For tested entries, the exact model/tool, settings, date, and material edits.
 
 Use the canonical format in [prompts/README.md](./prompts/README.md#canonical-recipe-format).
+
+### Attributed community example route
+
+Use the external-showcase change type in the pull-request template. Provide the creator, original post, prompt location, media URLs, retrieval method, check date, missing inputs and observed limitations. Keep quotations short and link the full prompt at its source. Preserve attribution; do not claim ownership or blanket redistribution rights over linked works. The original-recipe identity restrictions below do not apply to this route. Never include unlicensed media files, private data or credentials.
 
 ## ID policy
 
@@ -69,7 +75,7 @@ Use the canonical format in [prompts/README.md](./prompts/README.md#canonical-re
 
 IDs are assigned sequentially and never reused. Ask a maintainer to confirm the next ID when another pull request could conflict.
 
-## Content we do not accept
+## Content excluded from original recipe submissions
 
 - Prompts copied or lightly rewritten from another repository, social account, course, or paid pack;
 - Content retaining another author's name, handle, watermark, tracking link, or promotion;
@@ -97,16 +103,19 @@ Follow [assets/README.md](./assets/README.md). Never commit credentials, private
 
 ## Pull request checklist
 
-- [ ] I have the rights and consent needed for all submitted text and media;
-- [ ] The contribution is original and does not preserve external author/platform identity;
+Complete the items applicable to your contribution route; mark unrelated items as not applicable. Linking an external work does not mean you own it.
+
+- [ ] For original recipes and owned assets: I have the rights and consent needed to submit my original material under MIT;
+- [ ] For original recipes and owned assets: the contribution is independently authored and does not reuse external author/platform identity;
+- [ ] For external showcases: creator attribution, original source, prompt location and verification limits are recorded; third-party works are not presented as original recipes or MIT assets;
 - [ ] Facts and capability claims link to reliable primary sources;
 - [ ] The prompt is understandable without hidden conversation context;
-- [ ] The entry uses the correct category, ID, status, and recipe structure;
+- [ ] Original recipes use the correct category, ID, status and recipe structure; external examples use the separate source manifest and showcase;
 - [ ] Required text, claims, product details, and safety constraints were checked;
 - [ ] New files are linked from an index and all relative Markdown links work;
 - [ ] Tested examples disclose model/tool, inputs, settings, edits, and known limitations.
 
-By submitting a contribution, you agree that it may be distributed under this repository's MIT License.
+Your original contribution text, code and owned assets are submitted under this repository’s MIT License. Linked or quoted third-party prompts and media retain their owners’ rights and are not relicensed by your submission. Do not claim rights you do not hold.
 
 ## Before opening a pull request
 

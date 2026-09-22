@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for spatial reveals, property walkthroughs, renovati
 
 ## ARC-001 Honest Small-Apartment Walkthrough
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A continuous property tour that preserves the real floor plan and avoids deceptive wide-angle distortion.
 
 **Mode:** Floor plan + room reference images + optional path video  \
@@ -21,6 +23,8 @@ Sound intent: room tone, soft footsteps, distant street ambience, no sales voice
 **Review:** Floor-plan fidelity, lens honesty, exterior view, route continuity, and absence of invented amenities.
 
 ## ARC-002 Courtyard Cafe Morning-to-Evening Study
+
+**Status:** Concept — not independently tested
 
 **Use it for:** An architecture mood film showing how one space changes with light and occupancy.
 
@@ -40,6 +44,8 @@ Sound intent: morning broom and birds evolving into low conversation and evening
 
 ## ARC-003 Renovation Concept With Before/After Boundary
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A design concept film that makes proposed changes visually clear without presenting them as completed work.
 
 **Mode:** Existing-room images + approved concept render + material references  \
@@ -57,6 +63,8 @@ Sound intent: quiet paper movement and one restrained transition sweep. Avoid de
 **Review:** Existing/proposed distinction, scope fidelity, fixed elements, material match, and disclosure space.
 
 ## ARC-004 Smart-Home Evening Sequence
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A connected-home demonstration where each physical action produces one visible, verifiable state change.
 

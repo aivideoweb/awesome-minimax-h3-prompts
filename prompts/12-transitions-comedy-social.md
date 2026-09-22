@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for match cuts, loops, deadpan visual jokes, social 
 
 ## SOC-001 Three Rooms, One Rolling Orange
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A seamless match-cut transition demonstrating location continuity through one object.
 
 **Mode:** Three room images + object reference + camera-path sketch  
@@ -22,6 +24,8 @@ Sound intent: surface-specific rolling sound in each room, one soft transition c
 
 ## SOC-002 Office Plant Quietly Takes Over
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A deadpan workplace comedy with progressive environmental change.
 
 **Mode:** Office image + plant reference + fictional employee reference  
@@ -39,6 +43,8 @@ Use ordinary fluorescent daylight, progressive continuity, and deadpan timing. S
 **Review:** Growth progression, plant physics, locked framing, performer continuity, and safe comic tone.
 
 ## SOC-003 Alien at the Self-Service Laundry
+
+**Status:** Concept — not independently tested
 
 **Use it for:** An original social comedy built on one mundane misunderstanding.
 

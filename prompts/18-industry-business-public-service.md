@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for manufacturing, logistics, workplace communicatio
 
 ## IND-001 Small-Batch Assembly Process
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A manufacturing story where tool use, part count, and quality checks remain mechanically credible.
 
 **Mode:** Workstation images + product parts sheet + approved process sequence + worker reference  \
@@ -21,6 +23,8 @@ Sound intent: workshop ambience, part contact, four driver stops, no voiceover. 
 **Review:** Process order, fastener count, tool contact, PPE, cable routing, and no fabricated metrics.
 
 ## IND-002 Cold-Chain Parcel Journey
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A logistics explainer showing custody and temperature-monitoring touchpoints without inventing compliance.
 
@@ -40,6 +44,8 @@ Sound intent: cardboard, scanner tone, van ambience, no narration. Keep parcel a
 
 ## IND-003 Inclusive Emergency-Exit Reminder
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A public-information clip that communicates one venue's reviewed evacuation route with accessible visual pacing.
 
 **Mode:** Verified floor plan + location images + approved route + diverse consenting cast  \
@@ -57,6 +63,8 @@ Sound intent: clear room tone, one neutral alarm sample at safe level, no panic,
 **Review:** Approved geography, accessibility, door direction, calm pacing, audio level, and local safety review.
 
 ## IND-004 Bilingual Service-Desk Welcome
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A multilingual customer-service orientation with accurate speaker turns, respectful tone, and no private information.
 

@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for vehicles, micromobility, transit, and delivery s
 
 ## MOB-001 Electric City Car Interior Demo
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A premium interior feature film with exact control-to-state causality and no unsupported performance claims.
 
 **Mode:** Vehicle interior images + UI state images + approved interaction map  \
@@ -21,6 +23,8 @@ Keep hand anatomy, reflections, control locations, UI text, screen brightness, a
 **Review:** Cabin geometry, UI fidelity, input/state mapping, hand continuity, reflections, and claim safety.
 
 ## MOB-002 Cargo Bicycle Rain-Test Film
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A practical mobility product story showing weather handling without implying certification.
 
@@ -40,6 +44,8 @@ Sound intent: rainfall, tire hiss, chain, brake contact, no music. Do not claim 
 
 ## MOB-003 Night Train Sleeper Service
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A hospitality-focused rail film that keeps cabin geography, staff identity, and service sequence consistent.
 
 **Mode:** Carriage images + staff reference + service-object images + ambient audio  \
@@ -57,6 +63,8 @@ Sound intent: steady rail rhythm, door slide, fabric, cup contact, no announceme
 **Review:** Spatial continuity, rail-motion direction, service sequence, object persistence, and brand neutrality.
 
 ## MOB-004 Sidewalk Delivery Robot Handoff
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A friendly last-mile concept video with readable robot behavior and pedestrian priority.
 

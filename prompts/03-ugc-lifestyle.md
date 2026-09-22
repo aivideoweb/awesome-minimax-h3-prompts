@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for creator-style demonstrations, everyday routines,
 
 ## UGC-001 Desk Lamp Honest First Impression
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A creator-style product reaction that feels specific without fabricating a testimonial.
 
 **Mode:** Creator reference + product image + optional room-tone audio  
@@ -22,6 +24,8 @@ Use believable phone focus, mild micro-shake, ordinary room texture, and correct
 
 ## UGC-002 Balcony Herb Kit Weekend Routine
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A calm lifestyle montage showing a simple process and realistic progress.
 
 **Mode:** Location image + kit image + optional action reference video  
@@ -39,6 +43,8 @@ Natural cloudy daylight, apartment sounds, occasional breeze, modest handheld mo
 **Review:** Process order, object count, soil/water physics, authenticity, and absence of false results.
 
 ## UGC-003 Commuter Sling Real-World Packing Test
+
+**Status:** Concept — not independently tested
 
 **Use it for:** Demonstrating capacity and access in a believable daily commute.
 

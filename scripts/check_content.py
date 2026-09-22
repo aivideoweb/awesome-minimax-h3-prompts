@@ -71,7 +71,17 @@ for name, notice in notice_words.items():
 for p in ROOT.glob('README*.md'):
     check(not re.search(r' · @[A-Za-z0-9_]+', p.read_text()), f'{p.name}: unlinked X author handle')
 for p in recipes:
-    check('```text' in p.read_text(), f'{p.name}: missing copyable prompt blocks')
+    for block in re.split(r'(?=^## [A-Z]{3}-\d{3}\b)', p.read_text(), flags=re.M)[1:]:
+        recipe_id = re.match(r'## ([A-Z]{3}-\d{3})', block).group(1)
+        statuses = re.findall(r'^\*\*Status:\*\* (.+)$', block, re.M)
+        check(len(statuses) == 1 and statuses[0] in ('Concept — not independently tested', 'Tested'), f'{recipe_id}: missing or invalid status')
+        check('```text' in block, f'{recipe_id}: missing copyable prompt block')
+        if statuses == ['Tested']:
+            record = re.search(r'^\*\*Generation record:\*\* \[[^\]]+\]\(([^)]+)\)', block, re.M)
+            check(bool(record), f'{recipe_id}: tested recipe requires a generation record')
+            if record:
+                target = (p.parent / record.group(1)).resolve()
+                check(target.is_relative_to(ROOT) and target.is_file() and target.suffix == '.md', f'{recipe_id}: generation record must be a local Markdown file')
 if errors:
     print('\n'.join(errors));raise SystemExit(1)
 print('PASS: 84 recipes, 24 categories, local links/anchors, eight VideoWeb entry pages, 12 assets and 15 attributed X cases')

@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for brand films, campaign launches, product storytel
 
 ## BRD-001 Midnight Observatory Tea Launch
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A premium launch film that makes a new bottled tea feel precise, calm, and contemporary.
 
 **Mode:** Product image + location image + optional sound reference  
@@ -22,6 +24,8 @@ Lighting is physically motivated, with glass refraction, soft metal reflections,
 
 ## BRD-002 Community Cinema Opening Night
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A warm local-business campaign film with real people and a clear event feeling.
 
 **Mode:** Location image + cast reference image + optional ambient audio  
@@ -39,6 +43,8 @@ Keep the feeling candid, inclusive, and local rather than luxury advertising. Us
 **Review:** Identity consistency, crowd duplication, facade geometry, platform-safe framing, and absence of fabricated claims.
 
 ## BRD-003 One Campaign, Three Aspect Ratios
+
+**Status:** Concept — not independently tested
 
 **Use it for:** Adapting a single outdoor campaign into landscape, feed, and vertical compositions without hard cropping.
 

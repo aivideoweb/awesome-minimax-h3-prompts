@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for character-led dialogue, restrained emotion, bili
 
 ## CHR-001 Paper Birds Plan for the Storm
 
+**Status:** Concept — not independently tested
+
 ![Original indigo and saffron paper birds inside a storm-lit greenhouse](../assets/gallery/paper-birds-storm-shelter.webp)
 
 **Use it for:** A compact two-character scene with exact voices, clear staging, tactile animation, and a complete emotional turn.
@@ -24,6 +26,8 @@ Use slight stop-motion cadence, consistent eye lines, and one speaker at a time.
 
 ## CHR-002 The First New Root
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A quiet live-action performance driven by a small physical discovery rather than melodramatic expression.
 
 **Mode:** Consenting adult identity + greenhouse location + exact plant cutting reference  
@@ -42,6 +46,8 @@ Sound intent: rain on glass, stool creak, jar contact, one soft exhale, no dialo
 
 ## CHR-003 Bilingual Radio-Repair Handoff
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A respectful bilingual exchange where exact speaker turns, prop continuity, pronunciation, and listening behavior matter.
 
 **Mode:** Two consenting adult references + repair-shop image + authorized voices + approved dialogue  
@@ -59,6 +65,8 @@ Keep exact language, speaker ownership, lip sync, pauses, action causality, and 
 **Review:** Japanese accuracy, English delivery, voice consent, turn-taking, listening faces, radio state, hand ownership, privacy, and no policy claims.
 
 ## CHR-004 One Extra Meal: Three-Person Ensemble
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A short ensemble scene where each adult has a distinct objective and the story resolves through reactions and blocking.
 

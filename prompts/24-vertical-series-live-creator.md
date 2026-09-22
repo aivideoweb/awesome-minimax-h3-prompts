@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for responsible live-commerce demonstrations, short 
 
 ## VER-001 Honest Modular Lunch-Jar Live Demo
 
+**Status:** Concept — not independently tested
+
 ![Original unbranded modular lunch-jar kit with five components](../assets/gallery/modular-lunch-jar-kit.webp)
 
 **Use it for:** A compact live-commerce demonstration that shows verified assembly and fit without inventing performance, health, or certification claims.
@@ -24,6 +26,8 @@ Sound intent: clear authorized speech, metal nesting, thread contact, quiet kitc
 
 ## VER-002 The Wrong Parcel, the Right Neighbor
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A warm vertical micro-drama with a fast hook, clear prop logic, two consenting adults, and a non-exploitative reversal.
 
 **Mode:** Two adult identities + apartment corridor + two parcel references + authorized dialogue  
@@ -42,6 +46,8 @@ Natural corridor ambience, two door sounds, no music or subtitles. Keep one blue
 
 ## VER-003 One Tool, Three Bicycle Fixes
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A repeatable creator-series opener that establishes an expert, one workbench, and three visually distinct maintenance topics without unsafe instruction.
 
 **Mode:** Consenting creator + exact workshop + rights-cleared bicycle parts + approved procedure cards  
@@ -59,6 +65,8 @@ Sound intent: exact dialogue, metal touch, cloth, one bell ring, quiet workshop,
 **Review:** Creator continuity, tool count, part separation, approved boundaries, match cuts, dialogue, blank label zones, and no unsafe completeness claim.
 
 ## VER-004 Ceramic Creator Answers One Real Question
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A direct audience-answer format that turns one verified craft question into a concise visual explanation with transparent limits.
 

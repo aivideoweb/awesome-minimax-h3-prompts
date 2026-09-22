@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-22 — Input, contribution and status consistency
+
+- Added a separate bilingual fictional-canal practice adaptation; retained TRV-001 and clarified that its three verified location inputs are not supplied by the gallery image.
+- Split original-recipe and attributed-community contribution requirements and pull-request checklists.
+- Labeled all 84 canonical recipes as concepts not independently tested, added status to the canonical format, and validated per-recipe status and tested-record links.
+
 ## 2026-09-22 — Clarify homepage link labels
 
 - Distinguished group-end practice links from each creator’s original prompt links across eight languages.

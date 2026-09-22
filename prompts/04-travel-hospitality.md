@@ -4,6 +4,10 @@ Original MiniMax H3 prompts for destination films, hotel stories, local experien
 
 ## TRV-001 Rain-Washed Canal Town Morning
 
+The gallery image is a fictional mood reference, not the three verified location inputs required below. To practice with that image, use the separate [fictional single-image starter](../docs/fictional-canal-starter.md).
+
+**Status:** Concept — not independently tested
+
 **Use it for:** A slow destination film that sells atmosphere through a believable local routine.
 
 **Mode:** Location references + optional ambient audio  
@@ -22,6 +26,8 @@ Use soft overcast light, damp stone texture, muted green reflections, and natura
 
 ## TRV-002 Volcanic Island Guesthouse Reveal
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A hospitality video that connects room design to the surrounding landscape.
 
 **Mode:** Room image + landscape image + optional floor-plan reference  
@@ -39,6 +45,8 @@ Lighting transitions naturally from warm interior bounce to cool exterior daylig
 **Review:** Floor-plan coherence, indoor/outdoor exposure, furnishing persistence, and truthful amenity depiction.
 
 ## TRV-003 First-Person Night Market Wayfinding
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A mobile travel clip focused on navigation, food discovery, and accessible pacing.
 

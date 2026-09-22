@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for long takes, camera-grammar transfer, multi-image
 
 ## MRF-001 Three-Biome Museum Rail in One Take
 
+**Status:** Concept — not independently tested
+
 ![Original miniature museum rail spanning three tabletop biomes](../assets/gallery/three-biome-museum-rail.webp)
 
 **Use it for:** A continuous macro journey through a handcrafted exhibition while keeping scale, route, and material transitions legible.
@@ -23,6 +25,8 @@ No cuts, teleports, speed ramps, hidden resets, or changes of scale. Sound inten
 **Review:** Genuine continuous take, one cart, uninterrupted rail, biome order, material boundaries, water interaction, miniature scale, and clean ending.
 
 ## MRF-002 Radial Cork Speaker: Transfer Motion Grammar, Not Content
+
+**Status:** Concept — not independently tested
 
 ![Original fictional graphite-and-cork portable speaker](../assets/gallery/radial-cork-speaker.webp)
 
@@ -44,6 +48,8 @@ Preserve the exact silhouette, circular grille, cork panels, seam placement, amb
 
 ## MRF-003 Four Workshops, One Copper Thread
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A multi-image craft film that connects independent makers through one continuous match action rather than a copied montage.
 
 **Mode:** Four location/hand references + one material reference + optional original music  
@@ -61,6 +67,8 @@ Keep screen direction, thread thickness, hand ownership, tool count, and step or
 **Review:** Reference ownership, match-action positions, screen direction, material change boundary, safe final interaction, and no false production claim.
 
 ## MRF-004 Field Water-Filter Setup from Verified References
+
+**Status:** Concept — not independently tested
 
 **Use it for:** Turning approved product and procedure references into a concise tutorial without inventing parts, steps, or purification claims.
 

@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for controlled transformations, speculative worlds, 
 
 ## VFX-001 Glasshouse Grows a Night Sky
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A poetic VFX film where a familiar room transforms through one consistent physical rule.
 
 **Mode:** Glasshouse image + plant references + optional sound design reference  
@@ -22,6 +24,8 @@ Sound intent: glass ticks, leaves, low airy resonance, no voice. Keep the transf
 
 ## VFX-002 Miniature Rain Collector City
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A sustainable-world concept film showing an understandable system at miniature scale.
 
 **Mode:** City model image + mechanism diagram + rain audio  
@@ -39,6 +43,8 @@ Use real surface tension, scale-appropriate droplets, wood darkening, and cerami
 **Review:** System mapping, scale cues, water direction, reservoir level, and no unsupported sustainability claim.
 
 ## VFX-003 Constellation Dress Performance
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A high-fashion fantasy piece with precise material transformation and performer continuity.
 

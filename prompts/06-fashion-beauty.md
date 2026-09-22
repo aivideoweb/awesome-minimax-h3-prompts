@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for editorial motion, product-focused beauty films, 
 
 ## FSH-001 Wind-Study Eyewear Editorial
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A controlled fashion film that keeps eyewear geometry and model identity stable.
 
 **Mode:** Model reference + eyewear multi-view images + motion reference  
@@ -22,6 +24,8 @@ Use one large soft key, thin rim, natural pores, and honest lens reflections. No
 
 ## FSH-002 Mineral Lip Color Texture Study
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A beauty macro that emphasizes truthful material and restrained application.
 
 **Mode:** Product image + texture swatch + adult model reference  
@@ -39,6 +43,8 @@ Neutral daylight, true skin texture, accurate color management. Sound intent: me
 **Review:** Shade consistency, model identity, application anatomy, product mechanism, and no retouching distortion.
 
 ## FSH-003 Four-Look Textile Transition
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A fashion transformation where the transition is driven by material, not a copied social effect.
 

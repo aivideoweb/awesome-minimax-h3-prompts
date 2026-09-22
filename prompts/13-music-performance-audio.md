@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for live sessions, choreography, music-led visuals, 
 
 ## MUS-001 Rooftop Trio Live Session
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A believable one-take performance film with synchronized playing, camera rhythm, and environmental sound.
 
 **Mode:** Cast images + location image + rights-cleared music reference  \
@@ -21,6 +23,8 @@ Sound intent: preserve the timing and dynamic contour of Audio 1, add only subtl
 **Review:** Beat synchronization, playable hand positions, performer identity, instrument geometry, audio rights, and clean ending.
 
 ## MUS-002 Multilingual Station Duet
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A short dramatic duet in two languages with clear speaker ownership and natural turn-taking.
 
@@ -40,6 +44,8 @@ Keep exact voice-to-face ownership, natural breathing, intelligible pronunciatio
 
 ## MUS-003 Dance Rehearsal to Stage Match Cut
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A choreography teaser that transfers one exact movement from rehearsal to finished stage.
 
 **Mode:** Cast image + rehearsal video + stage design image + rhythm reference  \
@@ -57,6 +63,8 @@ Maintain choreography timing, facing direction, floor contact, body anatomy, and
 **Review:** Movement fidelity, cut alignment, anatomical realism, rhythm lock, costume transition, and safe crop.
 
 ## MUS-004 Sound-to-Shape Album Loop
+
+**Status:** Concept — not independently tested
 
 **Use it for:** An abstract looping visualizer built from a rights-cleared audio motif without copying album art.
 

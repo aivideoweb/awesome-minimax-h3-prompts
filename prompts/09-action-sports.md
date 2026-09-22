@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for readable athletic performance, plausible physics
 
 ## ACT-001 Indoor Climbing Final Move
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A sports commercial centered on technique and one decisive movement.
 
 **Mode:** Athlete reference + route image + technique video  
@@ -22,6 +24,8 @@ Sound intent: breath, shoe rubber, chalk, room reverb, one quiet crowd reaction.
 
 ## ACT-002 Rain Circuit Bicycle Corner
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A fast cycling shot with readable line choice, wheel contact, and weather physics.
 
 **Mode:** Rider/bicycle image + track image + cornering reference video  
@@ -39,6 +43,8 @@ Overcast light, wet asphalt reflections, realistic wheel rotation and fabric mov
 **Review:** Wheel contact, cornering sequence, bicycle geometry, screen direction, spray scale, and safe framing.
 
 ## ACT-003 Table Tennis Rally in One Take
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A compact indoor sports piece where ball trajectory and player positions stay legible.
 

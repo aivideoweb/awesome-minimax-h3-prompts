@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for poster assembly, product feature cards, exhibiti
 
 ## MOG-001 Night-Market Poster Builds on the Beat
 
+**Status:** Concept — not independently tested
+
 ![Original paper-collage night-market poster with a blank typography panel](../assets/gallery/dynamic-night-market-poster.webp)
 
 **Use it for:** Turning a finished key visual into a controlled vertical poster reveal with exact element order and a clean typography handoff.
@@ -24,6 +26,8 @@ Use Audio 1 only for rhythm; add restrained paper friction and soft wooden taps.
 
 ## MOG-002 Modular Product Feature Cards
 
+**Status:** Concept — not independently tested
+
 **Use it for:** Presenting a small product system as clean, reusable motion modules without fabricating specifications or on-screen copy.
 
 **Mode:** Product views + component sheet + approved color tokens + optional beat track  
@@ -42,6 +46,8 @@ Sound intent: Audio 1, wood contact, felt slide, no voiceover. Do not invent dim
 
 ## MOG-003 Museum Object Silhouette Opener
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A short exhibition opener that derives motion from rights-cleared object shapes while keeping interpretation and provenance outside the generated video.
 
 **Mode:** Four object silhouettes + approved palette + original percussion  
@@ -59,6 +65,8 @@ Map one action to each Audio 1 percussion event. Use only Image 5 colors, crisp 
 **Review:** Silhouette fidelity, relative scale, action-to-sound mapping, interpretive restraint, title safe area, and no invented cultural detail.
 
 ## MOG-004 Material-Swatch Motion Identity
+
+**Status:** Concept — not independently tested
 
 **Use it for:** Creating a reusable, logo-safe motion bumper from an original set of materials rather than imitating an existing brand package.
 

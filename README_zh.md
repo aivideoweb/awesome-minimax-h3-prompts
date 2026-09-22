@@ -163,7 +163,7 @@
 | 品牌与产品 | UGC 与生活方式 | 旅行与酒店 |
 |---|---|---|
 | ![日出前山顶观测站中的虚构瓶装茶饮](./assets/gallery/midnight-observatory-tea.webp) | ![成人创作者在家庭工作室体验原创折叠台灯](./assets/gallery/honest-desk-lamp-demo.webp) | ![雨后虚构水乡街区、自行车与石桥](./assets/gallery/rain-washed-canal-morning.webp) |
-| [BRD-001 提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 提示词](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [TRV-001 提示词](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
+| [BRD-001 提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 提示词](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [用这张虚构图练习](./docs/fictional-canal-starter.md#简体中文) · [TRV-001：另需三张核实过的地点参考图](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
 
 | 动画与角色 | 动作与运动 | H3 参考图简报 |
 |---|---|---|

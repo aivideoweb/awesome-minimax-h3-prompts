@@ -163,7 +163,7 @@ These original generated images are first-frame and mood references for recipes 
 | Brand and product | UGC and lifestyle | Travel and hospitality |
 |---|---|---|
 | ![Fictional bottled tea in a mountaintop observatory before sunrise](./assets/gallery/midnight-observatory-tea.webp) | ![Adult creator testing an original foldable desk lamp in a home office](./assets/gallery/honest-desk-lamp-demo.webp) | ![Rain-washed fictional canal neighborhood with bicycle and stone bridge](./assets/gallery/rain-washed-canal-morning.webp) |
-| [BRD-001 prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 prompt](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [TRV-001 prompt](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
+| [BRD-001 prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [UGC-001 prompt](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [Practice with this fictional image](./docs/fictional-canal-starter.md) · [TRV-001: requires three verified location images](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) |
 
 | Animation and character | Action and sports | H3 reference-image briefs |
 |---|---|---|

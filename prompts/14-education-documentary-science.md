@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for explainers, museum media, field documentation, a
 
 ## EDU-001 Tidal Marsh Carbon Explainer
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A short science explainer that keeps process order and visual evidence separate from narration.
 
 **Mode:** Diagram image + rights-cleared field footage + narration reference  \
@@ -21,6 +23,8 @@ Narration intent: plain language, one idea per sentence, no unverified percentag
 **Review:** Scientific sequence, claim scope, field-footage context, scale, and accessible pacing.
 
 ## EDU-002 Museum Object Story Without Reconstruction Claims
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A museum-screen vignette that distinguishes documented object detail from interpretive atmosphere.
 
@@ -40,6 +44,8 @@ Sound intent: quiet gallery air, soft wood creak, no dialogue or dramatic score.
 
 ## EDU-003 Safe Workshop Procedure: Drill-Press Setup
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A visual training insert that demonstrates preparation steps without replacing qualified instruction.
 
 **Mode:** Equipment images + approved procedure card + instructor reference  \
@@ -57,6 +63,8 @@ Sound intent: natural room tone and four subtle confirmation clicks; no spoken c
 **Review:** Approved step order, hand safety, machine state, PPE, disclaimers, and local policy alignment.
 
 ## EDU-004 Microscopic World to Everyday Scale
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A visually engaging classroom transition that clearly separates illustrative scale from literal footage.
 

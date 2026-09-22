@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for interface motion, product demonstrations, game U
 
 ## DIG-001 Focus Timer Product Walkthrough
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A clean landing-page motion demo of a productivity feature with realistic states.
 
 **Mode:** UI screens + interaction map + optional cursor motion reference  
@@ -22,6 +24,8 @@ Use crisp UI, no perspective distortion during interaction, and subtle screen re
 
 ## DIG-002 Electric Bicycle Dashboard Modes
 
+**Status:** Concept — not independently tested
+
 **Use it for:** Demonstrating a physical control and a screen response without unsafe riding.
 
 **Mode:** Dashboard image + handlebar image + state diagram  
@@ -39,6 +43,8 @@ Preserve button count, screen geometry, supplied labels, and one-to-one input re
 **Review:** Button-state mapping, label accuracy, hardware geometry, accessibility contrast, and safe stationary context.
 
 ## DIG-003 Tactical Garden Game Inventory
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A stylized game UI reveal that remains readable and mechanically coherent.
 

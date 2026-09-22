@@ -58,6 +58,8 @@ The recipes do not invent API parameters. Confirm currently supported input type
 ````markdown
 ## BRD-000 English title
 
+**Status:** Concept — not independently tested
+
 **Use it for:** One precise delivery goal.
 
 **Mode:** Text / image / audio / video references as needed
@@ -77,6 +79,8 @@ The recipes do not invent API parameters. Confirm currently supported input type
 
 **Review:** The failure modes that matter for this recipe.
 ````
+
+Each recipe must have a `Status` field: `Concept — not independently tested`, or `Tested` with a local Markdown `Generation record` link. A tested record must document the exact tool/model, settings, date, submitted prompt, inputs, output, manual edits and known limitations; reviewers must verify the evidence before changing status.
 
 All entries are creative specifications. A recipe is only marked as tested after its exact model/tool, inputs, settings, date, output, and material edits are recorded.
 

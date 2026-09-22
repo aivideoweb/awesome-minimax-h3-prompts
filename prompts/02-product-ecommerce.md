@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for truthful feature demonstrations, marketplace cli
 
 ## PRD-001 Modular Hiking Lantern Feature Demo
 
+**Status:** Concept — not independently tested
+
 **Use it for:** Showing three real product functions without changing the product design.
 
 **Mode:** Product images + optional hand-motion reference  
@@ -22,6 +24,8 @@ Use real weight, hinge resistance, contact shadows, metal highlights, and warm l
 
 ## PRD-002 Ceramic Diffuser Material Film
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A sensory e-commerce video focused on surface, vapor, and quiet motion.
 
 **Mode:** Product image + material macro image  
@@ -39,6 +43,8 @@ Palette: chalk, oat, walnut, soft gray. Sound intent: quiet button click, nearly
 **Review:** Ceramic texture, subtle vapor physics, control placement, product silhouette, and restrained styling.
 
 ## PRD-003 Marketplace Rotation Without Geometry Drift
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A concise marketplace listing clip that reveals all sides of a reusable bottle.
 

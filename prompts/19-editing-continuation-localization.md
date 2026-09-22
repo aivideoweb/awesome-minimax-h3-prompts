@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for narrow-scope video edits, natural continuation, 
 
 ## EDT-001 Clear the Background, Preserve the Lead
 
+**Status:** Concept — not independently tested
+
 **Use it for:** Removing distracting background people from an otherwise approved performance take without changing the lead or camera.
 
 **Mode:** Source video + optional clean location plate + lead identity reference  
@@ -21,6 +23,8 @@ Audio scope: keep the original lead dialogue, footsteps, music, and room tone. A
 **Review:** Difference-mask the lead and fixed foreground, inspect every former occlusion edge, and compare camera motion, shadows, lip sync, and audio continuity with the source.
 
 ## EDT-002 Extend a Repair-Café Closing Moment
+
+**Status:** Concept — not independently tested
 
 **Use it for:** Continuing an approved clip into a resolved ending while preserving its cast, setting, sound field, and camera logic.
 
@@ -40,6 +44,8 @@ Keep hand ownership, radio scale, button location, tool count, eyelines, screen 
 
 ## EDT-003 Localize a Product Tutorial Without Re-Shooting
 
+**Status:** Concept — not independently tested
+
 **Use it for:** Adapting an approved talking tutorial to another language while retaining the demonstrator, product action, timing, and truthful claims.
 
 **Mode:** Source video + authorized voice reference + approved translated script + clean graphic plates  
@@ -57,6 +63,8 @@ Mix the new dialogue at the same perceived distance as the source; preserve room
 **Review:** Native-speaker approval, word-for-word script match, lip sync, action timing, claim scope, units, graphic safe areas, and preserved product mechanics.
 
 ## EDT-004 Relight an Office Demo, Change Nothing Else
+
+**Status:** Concept — not independently tested
 
 **Use it for:** Turning a daytime smart-light demonstration into an evening version through a tightly bounded environmental edit.
 

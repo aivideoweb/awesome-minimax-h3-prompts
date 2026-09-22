@@ -9,7 +9,7 @@ This directory contains one new VideoWeb AI cover and eleven generated gallery r
 | `hero-minimax-h3-video-prompts.webp` | VideoWeb AI editorial cover | Main README | [VideoWeb cover brief](./videoweb-cover-prompt.md) |
 | `gallery/midnight-observatory-tea.webp` | Brand/product first frame | [BRD-001](../prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) | [IMG-002](./minimax-h3-reference-image-prompts.md#img-002-brand-and-product-midnight-observatory-tea) |
 | `gallery/honest-desk-lamp-demo.webp` | UGC creator/product first frame | [UGC-001](../prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [IMG-003](./minimax-h3-reference-image-prompts.md#img-003-ugc-and-lifestyle-honest-desk-lamp-demo) |
-| `gallery/rain-washed-canal-morning.webp` | Travel/location first frame | [TRV-001](../prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) | [IMG-004](./minimax-h3-reference-image-prompts.md#img-004-travel-rain-washed-canal-morning) |
+| `gallery/rain-washed-canal-morning.webp` | Fictional first frame; mood reference only for TRV-001 | [Fictional single-image practice](../docs/fictional-canal-starter.md) | [IMG-004](./minimax-h3-reference-image-prompts.md#img-004-travel-rain-washed-canal-morning) |
 | `gallery/clay-repair-robot.webp` | Animation character/environment reference | [ANI-002](../prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) | [IMG-005](./minimax-h3-reference-image-prompts.md#img-005-animation-clay-repair-robot-workshop) |
 | `gallery/indoor-climbing-final-hold.webp` | Sports athlete/route reference | [ACT-001](../prompts/09-action-sports.md#act-001-indoor-climbing-final-move) | [IMG-006](./minimax-h3-reference-image-prompts.md#img-006-sports-indoor-climbing-final-hold) |
 | `gallery/radial-cork-speaker.webp` | Fictional product identity/material reference | [MRF-002](../prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) | [IMG-007](./minimax-h3-reference-image-prompts.md#img-007-product-radial-cork-speaker) |
@@ -54,7 +54,7 @@ The source briefs are model-neutral and intended to produce H3 first-frame, subj
 ## Review notes
 
 - Generated people and products are fictional and should not be treated as real endorsements;
-- The canal image is a fictional composite location and must not be labeled as a specific real destination;
+- The canal image is a fictional composite location and must not be labeled as a specific real destination. Use the [fictional single-image practice version](../docs/fictional-canal-starter.md); it does not provide the three verified location references required by TRV-001;
 - The climbing image is visual reference material, not safety instruction; qualified supervision and real equipment review remain necessary;
 - Image generators can still produce small anatomical, geometric, or material inconsistencies; inspect at full size before commercial reuse;
 - Reusing an image as an H3 input can produce different motion, identity, and product details.

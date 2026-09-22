@@ -4,6 +4,8 @@ Original MiniMax H3 prompts for practical surrealism, temporal displacement, ref
 
 ## SRL-001 The Map Rises into a Landscape
 
+**Status:** Concept — not independently tested
+
 ![Original archive scene with a folded map becoming a handcrafted landscape](../assets/gallery/topographic-map-archive.webp)
 
 **Use it for:** A practical-effects transformation where a flat reference becomes a miniature world without losing geography or object count.
@@ -24,6 +26,8 @@ Sound intent: Audio 1, paper creases, clay settling, task-lamp hum, no music or 
 
 ## SRL-002 The Shadow Finishes First
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A subtle temporal illusion in which a character's shadow anticipates one harmless action while the physical room remains unchanged.
 
 **Mode:** Character and workshop references + fixed light diagram + optional room tone  
@@ -42,6 +46,8 @@ Sound intent: Audio 1, paper contact during the real action only, one quiet brea
 
 ## SRL-003 The Puddle Sees the Rain First
 
+**Status:** Concept — not independently tested
+
 **Use it for:** A temporal-reflection effect with a simple cause-and-effect payoff and no dangerous street action.
 
 **Mode:** Location image + consenting adult identity + approved weather states  
@@ -59,6 +65,8 @@ Sound intent: dry footsteps, first drops, umbrella click, soft rain, no dialogue
 **Review:** Puddle mask, three-second temporal rule, reflection perspective, umbrella continuity, rainfall transition, subject identity, and safe blocking.
 
 ## SRL-004 One Sphere, Four Materials
+
+**Status:** Concept — not independently tested
 
 **Use it for:** A multi-reference material transformation where silhouette and motion stay continuous across visibly different physical media.
 
